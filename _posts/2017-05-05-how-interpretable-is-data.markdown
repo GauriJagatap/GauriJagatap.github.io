@@ -15,4 +15,4 @@ description: Markdown summary with different options
 
 ## summary
 
-work
+$\alpha$
