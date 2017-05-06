@@ -11,8 +11,22 @@ category: blog
 author: gaurijagatap
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+mathjax: true
 ---
+
 
 ## summary
 
 work
+
+$x$ = $y$
+
+$$
+ |\psi_1\|
+$$
+
+\begin{equation}
+    |\psi_1\|
+\end{equation}
+
+
