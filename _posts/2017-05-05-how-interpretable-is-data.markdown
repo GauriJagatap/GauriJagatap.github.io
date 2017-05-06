@@ -15,8 +15,6 @@ mathjax: true
 ---
 
 
-## summary
-
 work
 
 $x$ = $y$
