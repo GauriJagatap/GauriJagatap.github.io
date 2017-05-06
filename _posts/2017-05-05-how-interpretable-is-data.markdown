@@ -2,7 +2,7 @@
 title: "How interpretable is data?"
 layout: post
 date: 2017-05-05 19:48
-image: /assets/images/machinelearning.gif
+image: /assets/images/machinelearning.jpg
 headerImage: true
 tag:
 - machine learning
