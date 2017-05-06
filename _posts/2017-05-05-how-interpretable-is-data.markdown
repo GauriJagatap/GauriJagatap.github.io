@@ -3,13 +3,12 @@ title: "How interpretable is data?"
 layout: post
 date: 2017-05-05 19:48
 image: /assets/images/markdown.jpg
-headerImage: false
+headerImage: true
 tag:
 - machine learning
 - data science
 category: blog
 author: gaurijagatap
-
 ---
 
 I am finally done with my second semester towards my PhD, which means it's time for sum-mer and some-more (or a-lot-more) research!
