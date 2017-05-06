@@ -22,7 +22,7 @@ So wait. Given a set of data points, can't we as humans do the intelligible task
 
 The answer: they don't do anything we can't. They are just better at interpreting a _larger scale_ of data. They're like a self-organizing library. The librarian no longer has to assign books to particular sections, the books do that themselves (not that we want to put librarians out of business)!
 
-Those familiar with machine learning will automatically recognize this problem formulation as that of _unsupervised learning. Employ algorithms that make sense out of data! Principal component analysis, does just that. It tries to represent the variation in the data in descending order. The first principal direction has the maximum variation in data. Usually the first few principal components (usually, this number is $\leq r$, where $r$ is _rank_ of the data matrix) are sufficient to explain most of the (variation in) data. Now these "directions" are composed of the relative "importance" of its constituent features.
+Those familiar with machine learning will automatically recognize this problem formulation as that of _unsupervised learning_. Employ algorithms that make sense out of data! Principal component analysis, does just that. It tries to represent the variation in the data in descending order. The first principal direction has the maximum variation in data. Usually the first few principal components (usually, this number is $\leq r$, where $r$ is _rank_ of the data matrix) are sufficient to explain most of the (variation in) data. Now these "directions" are composed of the relative "importance" of its constituent features.
 
 Mathematically speaking, the PCA problem boils down to the singular value decomposition,
 
