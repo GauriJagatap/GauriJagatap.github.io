@@ -13,7 +13,7 @@ description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-## 
+## Data
 I am finally done with my second semester towards my PhD, which means it's time for sum-mer and some-more (or a-lot-more) research!
 I happened to have two course projects that I only recently wrapped up, and they turned out to be somewhat related! 
 The two topics being sparse principal component analysis (SPCA) and non-negative matrix factorization (NMF). 

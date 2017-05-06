@@ -106,6 +106,5 @@ gems:
   - jekyll-feed
   - jemoji
 
-encoding: UTF-8
 jekyll-mentions:
     base_url: https://github.com
