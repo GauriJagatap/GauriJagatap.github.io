@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-06T14:15:37+05:30</updated><id>http://localhost:4000/</id><title type="html">Gauri Jagatap</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">How interpretable is data?</title><link href="http://localhost:4000/how-interpretable-is-data/" rel="alternate" type="text/html" title="How interpretable is data?" /><published>2017-05-05T19:48:00+05:30</published><updated>2017-05-05T19:48:00+05:30</updated><id>http://localhost:4000/how-interpretable-is-data</id><content type="html" xml:base="http://localhost:4000/how-interpretable-is-data/">&lt;h2 id=&quot;summary&quot;&gt;summary&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-07T16:43:00+05:30</updated><id>http://localhost:4000/</id><title type="html">Gauri Jagatap</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">How interpretable is data?</title><link href="http://localhost:4000/how-interpretable-is-data/" rel="alternate" type="text/html" title="How interpretable is data?" /><published>2017-05-05T19:48:00+05:30</published><updated>2017-05-05T19:48:00+05:30</updated><id>http://localhost:4000/how-interpretable-is-data</id><content type="html" xml:base="http://localhost:4000/how-interpretable-is-data/">&lt;p&gt;I am finally done with my second semester towards my PhD, which means it’s time for sum-mer and some-more (or a-lot-more) research!&lt;/p&gt;
 
-&lt;p&gt;work&lt;/p&gt;
+&lt;p&gt;I happened to have two course projects that I only recently wrapped up, and they turned out to be somewhat related! The two topics being sparse principal component analysis (SPCA) and non-negative matrix factorization (NMF). Both of them, key tools to help &lt;em&gt;interpret&lt;/em&gt; data better.&lt;/p&gt;
 
-&lt;p&gt;$x$ = $y$&lt;/p&gt;
+&lt;p&gt;So wait. Given a set of data points, can’t we as humans do the intelligible task of interpretation? What do these data-interpretations tools do that we can’t?&lt;/p&gt;
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;|\psi_1\|&lt;/script&gt;
+&lt;p&gt;The answer: they don’t do anything we can’t. They are just better at interpreting a &lt;em&gt;larger scale&lt;/em&gt; of data. They’re like a self-organizing library. The librarian no longer has to assign books to particular sections, the books do that themselves (not that we want to put librarians out of business)!&lt;/p&gt;
 
-&lt;p&gt;\begin{equation}
-    |\psi_1|
-\end{equation}&lt;/p&gt;</content><author><name>gaurijagatap</name></author><category term="blog" /><category term="machine learning" /><category term="data science" /><summary type="html">summary</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry></feed>
+&lt;p&gt;Those familiar with machine learning will automatically recognize this problem formulation as that of &lt;em&gt;unsupervised learning&lt;/em&gt;. Employ algorithms that make sense out of data! Principal component analysis, does just that. It tries to represent the variation in the data in descending order. The first principal direction has the maximum variation in data. Usually the first few principal components (usually, this number is $\leq r$, where $r$ is &lt;em&gt;rank&lt;/em&gt; of the data matrix) are sufficient to explain most of the (variation in) data. Now these “directions” are composed of the relative “importance” of its constituent features.&lt;/p&gt;
+
+&lt;p&gt;Mathematically speaking, the PCA problem boils down to the singular value decomposition,&lt;/p&gt;
+
+&lt;p&gt;$ M_{d \times n} = US_{d \times r} V^T_{r \times n} $&lt;/p&gt;
+
+&lt;p&gt;where our data matrix $M$ is assumed to lie in a lower dimensional subspace of rank $r$. Sparse PCA, additionally assumes that the right singular vectors, which are columns of $V$ are &lt;em&gt;sparse&lt;/em&gt; .&lt;/p&gt;
+
+&lt;p&gt;The non-negative matrix factorization problem is similar. A non-negative matrix can be decomposed into non-negative matrices $W,H$,&lt;/p&gt;
+
+&lt;p&gt;$ M_{d \times n} = W_{d \times r} H_{r \times n} $&lt;/p&gt;
+
+&lt;p&gt;The basic concept utilized in both of these methods is the same: most data has an underlying structure. Imposing the knowledge of this structure should help us extract meaningful information about this data.&lt;/p&gt;
+
+&lt;p&gt;Like what? For example in a text dataset, most articles focus on a few core topics. Further, these core topics, can be represented using few core words. This spurred several cool applications, such as detection of &lt;em&gt;trends&lt;/em&gt; on social media. In image processing, this has useful applications in segmentation. Representing images as a sum or weighted sum of components. Demixing of audio signals. The list goes on and on and I bet you can already sense the theme in this one.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="machine learning" /><category term="data science" /><summary type="html">I am finally done with my second semester towards my PhD, which means it’s time for sum-mer and some-more (or a-lot-more) research!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/machinelearning.jpg" /></entry></feed>
