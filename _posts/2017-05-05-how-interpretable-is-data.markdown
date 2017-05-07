@@ -8,6 +8,7 @@ tag:
 - machine learning
 - data science
 category: blog
+mathjax : true
 ---
 
 I am finally done with my second semester towards my PhD, which means it's time for sum-mer and some-more (or a-lot-more) research!
@@ -22,13 +23,13 @@ Those familiar with machine learning will automatically recognize this problem f
 
 Mathematically speaking, the PCA problem boils down to the singular value decomposition,
 
-$M_{d \times n} = US_{d \times r} V^T_{r \times n}$
+$ M_{d \times n} = US_{d \times r} V^T_{r \times n} $
 
 where our data matrix $M$ is assumed to lie in a lower dimensional subspace of rank $r$. Sparse PCA, additionally assumes that the right singular vectors, which are columns of $V$ are _sparse_ .
 
 The non-negative matrix factorization problem is similar. A non-negative matrix can be decomposed into non-negative matrices $W,H$,
 
-$M_{d \times n} = W_{d \times r} H_{r \times n}$
+$ M_{d \times n} = W_{d \times r} H_{r \times n} $
 
 The basic concept utilized in both of these methods is the same: most data has an underlying structure. Imposing the knowledge of this structure should help us extract meaningful information about this data.
 
