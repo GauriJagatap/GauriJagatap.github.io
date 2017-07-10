@@ -2,7 +2,7 @@
 title: About
 layout: page
 --- 
-<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
 I am a graduate student in the Electrical and Computer Engineering Department of the Iowa State Univeristy (ISU), and I have been
