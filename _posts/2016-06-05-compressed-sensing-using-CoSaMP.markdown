@@ -1,13 +1,14 @@
 ---
-title: "Compressed sensing for ultrasound imaging"
+title: "Compressed Sensing Using Matching Pursuit"
 layout: post
 date: 2017-05-05 19:48
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:
 - compressed sensing
-- ultrasound imaging
-category: blog
+- machine learning
+- data science
+category: projects
 mathjax : true
 ---
 
