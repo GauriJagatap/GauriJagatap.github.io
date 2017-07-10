@@ -7,7 +7,7 @@ date: 2016-05-05 19:48
 tag:
 - compressed sensing
 - ultrasound imaging
-category: projects
+category: project
 mathjax : true
 ---
 
