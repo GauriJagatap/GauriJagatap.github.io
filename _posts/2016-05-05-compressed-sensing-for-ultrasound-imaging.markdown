@@ -1,7 +1,7 @@
 ---
 title: "Compressed sensing for ultrasound imaging"
 layout: post
-date: 2017-05-05 19:48
+date: 2016-05-05 19:48
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:
