@@ -34,8 +34,6 @@ disqus:
 # [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: gauri.jagatap
-twitter: gaurijagatap
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -51,6 +49,8 @@ github: GauriJagatap
 # vimeo: myvimeo
 email: gauri@iastate.edu
 wordpress: thecognitivevortex
+facebook: gauri.jagatap
+twitter: gaurijagatap
 
 #authors:
 #    johndoe:
