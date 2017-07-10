@@ -8,7 +8,7 @@ tag:
 - compressed sensing
 - machine learning
 - data science
-category: projects
+category: project
 mathjax : true
 ---
 

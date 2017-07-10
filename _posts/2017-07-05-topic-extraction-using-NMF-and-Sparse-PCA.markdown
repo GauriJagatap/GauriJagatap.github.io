@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - machine learning
 - data science
-category: projects
+category: project
 mathjax : true
 ---
 
