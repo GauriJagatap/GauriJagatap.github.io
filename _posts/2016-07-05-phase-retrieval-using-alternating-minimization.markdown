@@ -1,5 +1,5 @@
 ---
-title: "How interpretable is data?"
+title: "Phase retrieval using Alternating Minimization"
 layout: post
 date: 2016-07-05 19:48
 image: /assets/images/machinelearning.jpg

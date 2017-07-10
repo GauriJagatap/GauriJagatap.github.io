@@ -1,5 +1,5 @@
 ---
-title: "How interpretable is data?"
+title: "Topic extraction using NMF and Sparse PCA"
 layout: post
 date: 2017-07-05 19:48
 image: /assets/images/machinelearning.jpg
