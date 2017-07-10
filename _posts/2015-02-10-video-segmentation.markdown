@@ -1,7 +1,7 @@
 ---
-title: "ReLU-based Neural Networks"
+title: "Video segmentation using ADMM"
 layout: post
-date: 2017-06-05 19:48
+date: 2017-01-05 19:48
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:
@@ -11,4 +11,4 @@ category: blog
 mathjax : true
 ---
 
-Learning ReLUs using gradient descent: an insight.
+This was my starter kit to the world of data science. Based on paper. Implementation.
