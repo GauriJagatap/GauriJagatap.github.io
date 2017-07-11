@@ -1,7 +1,7 @@
 ---
 title: "ReLU-based neural networks"
 layout: post
-date: 2017-06-05 19:48
+date: 2017-06-16 19:48
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:

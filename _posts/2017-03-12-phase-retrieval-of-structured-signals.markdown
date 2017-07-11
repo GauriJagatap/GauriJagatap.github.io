@@ -1,7 +1,7 @@
 ---
 title: "Phase retrieval of structured signals"
 layout: post
-date: 2017-03-05 19:48
+date: 2017-03-12 19:48
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:

@@ -1,7 +1,7 @@
 ---
 title: "Video segmentation using ADMM"
 layout: post
-date: 2017-01-05 19:48
+date: 2015-02-10 19:48
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:
