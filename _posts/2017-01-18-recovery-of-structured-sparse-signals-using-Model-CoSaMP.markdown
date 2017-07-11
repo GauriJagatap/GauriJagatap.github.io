@@ -1,5 +1,5 @@
 ---
-title: "Recovery of structured sparse signals using Model CoSaMP"
+title: "Recovery of structured sparse signals using model CoSaMP"
 layout: post
 date: 2017-01-18 19:48
 # image: /assets/images/machinelearning.jpg

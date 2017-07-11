@@ -1,5 +1,5 @@
 ---
-title: "Compressed Sensing Using Matching Pursuit"
+title: "Compressed sensing using matching pursuit"
 layout: post
 date: 2016-06-28 19:48
 # image: /assets/images/machinelearning.jpg
