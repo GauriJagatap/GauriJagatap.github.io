@@ -1,5 +1,5 @@
 ---
-title: "Phase retrieval using Alternating Minimization"
+title: "Phase retrieval using alternating minimization"
 layout: post
 date: 2016-07-05 19:48
 # image: /assets/images/machinelearning.jpg
@@ -11,4 +11,4 @@ category: blog
 mathjax : true
 ---
 
-Netrapalli's paper. Correlation with Wirtinger Flow.
+Netrapalli's paper. Correlation with Wirtinger Flow. How do Fourier measurements come into play.

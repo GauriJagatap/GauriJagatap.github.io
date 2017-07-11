@@ -16,6 +16,6 @@ Compressed Sensing Using Matching Pursuit or CoSaMP, happens to be a standard te
 
 Algorithm.
 
-Debiasing.
+Subspace Pursuit.
 
 Code.
