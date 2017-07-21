@@ -11,7 +11,9 @@ category: blog
 mathjax : true
 ---
 
-This was my starter kit to the world of data science. 
+This was my starter kit to the world of data science. I did this project in a largely unguided fashion, but it gave me a good idea about low-rank and sparse problems in signal processing.
+
+An excerpt:
 
 Video data transmitted by surveillance cameras is generally processed to detect
 moving objects automatically. The video generally consists of a moving object that covers a small fraction of a video frame and majority of the frame is spanned by the background. If each frame is vectorized, and these vectors are concatenated, it is referred to this as the video volume. The video volume can be split into the background and the moving objects (background separation). An intuitive method to separate out the background is by using the fact that the background being stationary, will form the low rank part of the video volume. On the other hand, the moving objects constitute the sparse component. This decomposition is done using a low rank and sparse decomposition of the video volume.
@@ -26,6 +28,6 @@ and moving objects are separated out during the recovery. Moreover, one
 1
 can choose tight wavelet transforms, which have specific properties that help simplify the minimization problem significantly.
 
-The implementation described is based on <a target="_blank" href='https://arxiv.org/abs/1302.1942'> this paper </a>  >. 
+The implementation described is based on <a target="_blank" href='https://arxiv.org/abs/1302.1942'> this paper </a>. 
 
 You can find details of my project work [here]({{ site.url }}/assets/vid_seg.pdf). 
