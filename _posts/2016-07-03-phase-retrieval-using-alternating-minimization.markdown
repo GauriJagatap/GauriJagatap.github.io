@@ -12,3 +12,5 @@ mathjax : true
 ---
 
 Netrapalli's paper. Correlation with Wirtinger Flow. How do Fourier measurements come into play.
+
+[to be updated]
