@@ -17,6 +17,6 @@ In this paper, we first study the case where the underlying signal $\mathbf{x}^*
 
 We then consider the case where the underlying signal $\mathbf{x}^*$ arises from \emph{structured} sparsity models. We specifically examine the case of \emph{block-sparse} signals with uniform block size of $b$ and block sparsity $k=s/b$. For this problem, we design a recovery algorithm that we call \emph{Block CoPRAM} that further reduces the sample complexity to $O{ks \log n}$. For sufficiently large block lengths of $b=\Theta(s)$, this bound equates to $O(s \log n)$. To our knowledge, this constitutes the first end-to-end linearly convergent algorithm for phase retrieval where the Gaussian sample complexity has a sub-quadratic dependence on the signal sparsity level.
 
-You can read the paper on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> arXiv </a>.
+You can read the full paper on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> arXiv </a>.
 
-You can find all codes related to the paper on my <a target="_blank" href='https://github.com/GauriJagatap/model-copram'> GitHub page </a>.
+You can also find all codes related to the paper on my <a target="_blank" href='https://github.com/GauriJagatap/model-copram'> GitHub page </a>.
