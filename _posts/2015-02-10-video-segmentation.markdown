@@ -28,6 +28,6 @@ and moving objects are separated out during the recovery. Moreover, one
 1
 can choose tight wavelet transforms, which have specific properties that help simplify the minimization problem significantly.
 
-The implementation described is based on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> this paper </a>. 
+The implementation described is based on <a target="_blank" href='https://arxiv.org/abs/1302.1942'> this paper </a>. 
 
 You can find details of my project work [here]({{ site.url }}/assets/vid_seg.pdf). 
