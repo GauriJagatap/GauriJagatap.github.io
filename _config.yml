@@ -15,7 +15,8 @@ picture: assets/images/prof.jpg
 resume: true
 resume-external: false
 resume-url: assets/resume.pdf
-url: http://www.public.iastate.edu/~gauri
+url: http://gaurijagatap.github.io
+# http://www.public.iastate.edu/~gauri
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
