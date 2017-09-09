@@ -1,5 +1,5 @@
 ---
-title: "Invertibility of Convolutional Neural Networks"
+title: "Invertibility of convolutional neural networks"
 layout: post
 date: 2017-08-15 19:48
 # image: /assets/images/machinelearning.jpg

@@ -11,7 +11,8 @@ category: project
 mathjax : true
 ---
 
-We consider the problem of recovering a signal $\mathbf{x}^* \in \mathbb{R}^n$, from magnitude-only measurements, $y_i = \| \left\langle {\mathbf{a}_i},{\mathbf{x}^*} \right\rangle \| $ for $i=\{1,2,\ldots,m\}$. This is a stylized version of the classical phase retrieval problem, and is a fundamental challenge in nano- and bio-imaging systems, astronomical imaging, and speech processing. It is well known that the above problem is ill-posed, and therefore some additional assumptions on the signal and/or the measurements are necessary.
+<p style='text-align: justify;'>
+We consider the problem of recovering a signal $\mathbf{x}^* \in \mathbb{R}^n$, from magnitude-only measurements, $y_i = \| \left\langle {\mathbf{a}_i},{\mathbf{x}^*} \right\rangle \| $ for $i=\{1,2,\ldots,m\}$. This is a stylized version of the classical phase retrieval problem, and is a fundamental challenge in nano- and bio-imaging systems, astronomical imaging, and speech processing. It is well known that the above problem is ill-posed, and therefore some additional assumptions on the signal and/or the measurements are necessary.</p>
 
 In this paper, we first study the case where the underlying signal $\mathbf{x}^*$ is $s$-sparse. For this case, we develop a novel recovery algorithm that we call _Compressive Phase Retrieval with Alternating Minimization_, or _CoPRAM_. Our algorithm is simple and be obtained via a natural combination of the classical alternating minimization approach for phase retrieval with the CoSaMP algorithm for sparse recovery. Despite its simplicity, we prove that our algorithm achieves a sample complexity of $O(s^2 \log n)$ with Gaussian measurements $\mathbf{a}_i$, which matches the best known existing results; moreover, it also demonstrates linear convergence in theory and practice. An appealing feature of our algorithm is that it requires no extra tuning parameters other than the signal sparsity level $s$.
 
