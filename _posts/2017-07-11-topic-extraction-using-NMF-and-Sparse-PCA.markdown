@@ -16,7 +16,6 @@ I happened to do two course projects in Spring 2017 on two allied problems: (i) 
 <p style='text-align: justify;'>
 In the following slides, I study and demonstrate some results in topic extraction and other applications using both of these formulations. </p>
 
-<p style='text-align: justify;'>
 1. [Non-negative Matrix Factorization]({{ site.url }}/assets/NMF.pdf)
 2. [Sparse PCA]({{ site.url }}/assets/SPCA.pdf)
-</p>
+
