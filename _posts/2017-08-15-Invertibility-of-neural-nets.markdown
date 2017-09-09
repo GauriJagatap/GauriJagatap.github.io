@@ -11,7 +11,7 @@ tag:
 category: blog
 mathjax : true
 ---
-
-Towards understanding the invertibility of convolutional neural networks by Anna Gilbert, et. al.
+<p style='text-align: justify;'>
+Towards understanding the invertibility of convolutional neural networks by Anna Gilbert, et. al. </p>
 
 [to be updated]

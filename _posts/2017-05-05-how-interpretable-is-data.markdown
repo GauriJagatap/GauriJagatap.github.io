@@ -10,7 +10,7 @@ tag:
 category: blog
 mathjax : true
 ---
-
+<p style='text-align: justify;'>
 I am finally done with my second semester towards my PhD, which means it's time for sum-mer and some-more (or a-lot-more) research!
 
 I happened to have two course projects that I only recently wrapped up, and they turned out to be somewhat related! The two topics being sparse principal component analysis (SPCA) and non-negative matrix factorization (NMF). Both of them, key tools to help _interpret_ data better.
@@ -36,3 +36,4 @@ The non-negative matrix factorization problem is similar. A non-negative matrix 
 The basic concept utilized in both of these methods is the same: most data has an underlying structure. Imposing the knowledge of this structure should help us extract meaningful information about this data.
 
 Like what? For example in a text dataset, most articles focus on a few core topics. Further, these core topics, can be represented using few core words. This spurred several cool applications, such as detection of _trends_ on social media. In image processing, this has useful applications in segmentation. Representing images as a sum or weighted sum of components. Demixing of audio signals. The list goes on and on and I bet you can already sense the theme in this one.
+</p>

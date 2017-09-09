@@ -10,10 +10,10 @@ tag:
 category: project
 mathjax : true
 ---
-
+<p style='text-align: justify;'>
 I happened to do two course projects in Spring 2017 on two allied problems: (i) Non-negative matrix factorization and (ii) Sparse PCA. While the problem formulation is different, both of them can be used in the context of extracting topics from a given database of documents.
 
-In the following slides, I study and demonstrate some results in topic extraction and other applications using both of these formulations.
+In the following slides, I study and demonstrate some results in topic extraction and other applications using both of these formulations. </p>
 
 1. [Non-negative Matrix Factorization]({{ site.url }}/assets/NMF.pdf)
 2. [Sparse PCA]({{ site.url }}/assets/SPCA.pdf)

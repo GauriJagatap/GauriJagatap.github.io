@@ -10,9 +10,9 @@ tag:
 category: blog
 mathjax : true
 ---
-
+<p style='text-align: justify;'>
 Learning ReLUs using gradient descent: an insight.
 
-Close on the heals of the phase retrieval problem is that of establishing performance guarantees on single layer neural networks with ReLU activation functions.
+Close on the heals of the phase retrieval problem is that of establishing performance guarantees on single layer neural networks with ReLU activation functions. </p>
 
 [to be updated]

@@ -7,10 +7,10 @@ date: 2015-02-10 19:48
 tag:
 - machine learning
 - data science
-category: project
+category: projects
 mathjax : true
 ---
-
+<p style='text-align: justify;'>
 This was my starter kit to the world of data science. I did this project in a largely unguided fashion, but it gave me a good idea about low-rank and sparse problems in signal processing.
 
 An excerpt:
@@ -26,7 +26,7 @@ This method works when the given data is sparse in this basis, which validates t
 However, one can formulate the minimization problem such that the background
 and moving objects are separated out during the recovery. Moreover, one
 1
-can choose tight wavelet transforms, which have specific properties that help simplify the minimization problem significantly.
+can choose tight wavelet transforms, which have specific properties that help simplify the minimization problem significantly. </p>
 
 The implementation described is based on <a target="_blank" href='https://arxiv.org/abs/1302.1942'> this paper </a>. 
 
