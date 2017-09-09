@@ -17,4 +17,4 @@ In the following slides, I study and demonstrate some results in topic extractio
 
 [Sparse PCA]({{ site.url }}/assets/SPCA.pdf)
 
-[Non-negative Matrix Formulation]({{ site.url }}/assets/NMF.pdf)
+[Non-negative Matrix Factorization]({{ site.url }}/assets/NMF.pdf)
