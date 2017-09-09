@@ -11,6 +11,10 @@ category: project
 mathjax : true
 ---
 
-A summary of two methods for text analysis, excerpts of my project and linking the code (GitHub).
+I happened to do two course projects in Spring 2017 on two allied problems: (i) Non-negative matrix factorization and (ii) Sparse PCA. While the problem formulation is different, both of them can be used in the context of extracting topics from a given database of documents.
 
-[to be updated]
+In the following slides, I study and demonstrate some results in topic extraction and other applications using both of these formulations.
+
+[Sparse PCA]({{ site.url }}/assets/SPCA.pdf)
+
+[Non-negative Matrix Formulation]({{ site.url }}/assets/NMF.pdf)
