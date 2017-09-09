@@ -11,8 +11,9 @@ category: project
 mathjax : true
 ---
 <p style='text-align: justify;'>
-My introduction to data science and the field of compressed sensing was primarily through the project that I did at the Spectrum Lab of the Indian Institute of Science. It involved analyzing ultrasound images and their underlying sparsity and using the compressed sensing framework to reduce the number of samples acquired in the imaging process. While most ultrasound images are sparse in the standard basis itself, I considered a number of wavelet bases that could emulate the impulse response of the ultrasound transducer, which promotes further sparsity.
+My introduction to data science and the field of compressed sensing was primarily through the project that I did at the Spectrum Lab of the Indian Institute of Science. It involved analyzing ultrasound images and their underlying sparsity and using the compressed sensing framework to reduce the number of samples acquired in the imaging process. While most ultrasound images are sparse in the standard basis itself, I considered a number of wavelet bases that could emulate the impulse response of the ultrasound transducer, which promotes further sparsity.</p>
 
+<p style='text-align: justify;'>
 It essentially boils down to solving the well known Lasso problem, which I did, using Alternating Directions Method of Multipliers (ADMM). </p>
 
 Lasso Problem.

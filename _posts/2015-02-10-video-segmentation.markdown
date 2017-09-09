@@ -11,18 +11,22 @@ category: projects
 mathjax : true
 ---
 <p style='text-align: justify;'>
-This was my starter kit to the world of data science. I did this project in a largely unguided fashion, but it gave me a good idea about low-rank and sparse problems in signal processing.
+This was my starter kit to the world of data science. I did this project in a largely unguided fashion, but it gave me a good idea about low-rank and sparse problems in signal processing.</p>
 
 An excerpt:
 
+<p style='text-align: justify;'>
 Video data transmitted by surveillance cameras is generally processed to detect
-moving objects automatically. The video generally consists of a moving object that covers a small fraction of a video frame and majority of the frame is spanned by the background. If each frame is vectorized, and these vectors are concatenated, it is referred to this as the video volume. The video volume can be split into the background and the moving objects (background separation). An intuitive method to separate out the background is by using the fact that the background being stationary, will form the low rank part of the video volume. On the other hand, the moving objects constitute the sparse component. This decomposition is done using a low rank and sparse decomposition of the video volume.
+moving objects automatically. The video generally consists of a moving object that covers a small fraction of a video frame and majority of the frame is spanned by the background. If each frame is vectorized, and these vectors are concatenated, it is referred to this as the video volume. The video volume can be split into the background and the moving objects (background separation). An intuitive method to separate out the background is by using the fact that the background being stationary, will form the low rank part of the video volume. On the other hand, the moving objects constitute the sparse component. This decomposition is done using a low rank and sparse decomposition of the video volume.</p>
 
+<p style='text-align: justify;'>
 The speed of this processing however, is slowed down by the abundance of data
-collected, which mostly consists of spells of inactivity. Compressive sensing is a technique used to acquire video data in a different basis, instead of the usual spatial basis, like Fourier or Wavelet, that involves acquiring a small fraction (up to 50% in this paper, lower fractions can be used for larger number of frames or higher resolution data) of the data that would have been acquired in the spatial basis.
+collected, which mostly consists of spells of inactivity. Compressive sensing is a technique used to acquire video data in a different basis, instead of the usual spatial basis, like Fourier or Wavelet, that involves acquiring a small fraction (up to 50% in this paper, lower fractions can be used for larger number of frames or higher resolution data) of the data that would have been acquired in the spatial basis.</p>
 
-This method works when the given data is sparse in this basis, which validates the low sampling rate (less than Nyquist). Sparse signal recovery from such compressive measurements is a process of minimizing the nuclear norm or l0 norm of the signal (in this case, video volume) in the transformed basis (which ensures sparsity in the transformed basis). The whole video volume can be recovered from this norm minimization and further background separation techniques can be employed to separate out the moving objects.
+<p style='text-align: justify;'>
+This method works when the given data is sparse in this basis, which validates the low sampling rate (less than Nyquist). Sparse signal recovery from such compressive measurements is a process of minimizing the nuclear norm or l0 norm of the signal (in this case, video volume) in the transformed basis (which ensures sparsity in the transformed basis). The whole video volume can be recovered from this norm minimization and further background separation techniques can be employed to separate out the moving objects.</p>
 
+<p style='text-align: justify;'>
 However, one can formulate the minimization problem such that the background
 and moving objects are separated out during the recovery. Moreover, one
 1
