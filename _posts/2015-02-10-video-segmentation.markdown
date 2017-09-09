@@ -7,7 +7,7 @@ date: 2015-02-10 19:48
 tag:
 - machine learning
 - data science
-category: blog
+category: project
 mathjax : true
 ---
 
