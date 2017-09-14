@@ -5,8 +5,6 @@ date: 2017-09-23 19:59
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:
-- machine learning
-- data science
 - phase retrieval
 category: project
 mathjax : true
