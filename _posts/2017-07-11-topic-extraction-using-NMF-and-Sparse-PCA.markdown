@@ -2,14 +2,15 @@
 title: "Topic extraction using NMF and Sparse PCA"
 layout: post
 date: 2017-07-11 19:48
-image: /assets/images/text.jpg
-headerImage: true
+#image: /assets/images/text.jpg
+#headerImage: true
 tag:
 - machine learning
 - data science
 category: project
 mathjax : true
 ---
+![Topic extraction]({{ site.url }}/assets/images/text.jpg)
 
 <p style='text-align: justify;'>
 I happened to do two course projects in Spring 2017 on two allied problems: (i) Non-negative matrix factorization and (ii) Sparse PCA. While the problem formulation is different, both of them can be used in the context of extracting topics from a given database of documents.</p>
