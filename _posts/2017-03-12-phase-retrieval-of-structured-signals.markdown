@@ -10,6 +10,7 @@ tag:
 category: project
 mathjax : true
 ---
+<font size="+2"> Abstract </font>
 
 <p style='text-align: justify;'>
 We consider the problem of recovering a signal $\mathbf{x}^* \in \mathbb{R}^n$, from magnitude-only measurements, $y_i = \| \left\langle {\mathbf{a}_i},{\mathbf{x}^*} \right\rangle \| $ for $i=\{1,2,\ldots,m\}$. This is a stylized version of the classical phase retrieval problem, and is a fundamental challenge in nano- and bio-imaging systems, astronomical imaging, and speech processing. It is well known that the above problem is ill-posed, and therefore some additional assumptions on the signal and/or the measurements are necessary.</p>
@@ -22,4 +23,10 @@ We then consider the case where the underlying signal $\mathbf{x}^*$ arises from
 
 You can read the full paper on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> arXiv </a>.
 
+<font size="+2"> Code </font>
+
 You can also find all codes related to the paper on my <a target="_blank" href='https://github.com/GauriJagatap/model-copram'> GitHub page</a>.
+
+<font size="+2"> Publications </font>
+
+G. Jagatap and C. Hegde, Fast, Sample-Efficient Algorithms for Structured Phase Retrieval, Neural Information Processing Systems (NIPS), December 2017.
