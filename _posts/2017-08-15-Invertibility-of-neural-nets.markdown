@@ -12,6 +12,7 @@ category: blog
 mathjax : true
 ---
 <p style='text-align: justify;'>
-Towards understanding the invertibility of convolutional neural networks by Anna Gilbert, et. al. </p>
+As a part of our summer mini-reading group seminar series, I presented a talk on 
+<a target="_blank" href=https://arxiv.org/abs/1705.08664>Towards Understanding the Invertibility of Convolutional Neural Networks</a> by Gilbert et. al.</p>
 
-[to be updated]
+You can find the main points highlighted in the talk in these [slides]({{ site.url }}/assets/CNNs.pdf) slides.
