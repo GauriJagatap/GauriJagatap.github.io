@@ -2,7 +2,7 @@
 title: "Topic extraction using NMF and Sparse PCA"
 layout: post
 date: 2017-07-11 19:48
-image: /assets/text.jpg
+image: /assets/images/text.jpg
 headerImage: true
 tag:
 - machine learning
