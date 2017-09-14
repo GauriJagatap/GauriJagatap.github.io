@@ -1,5 +1,5 @@
 ---
-title: "Sub-diffractive super-resolution of structured images using Fourier Ptychography"
+title: "Sub-diffractive super-resolution of structured images using Fourier ptychography"
 layout: post
 date: 2017-09-12 19:59
 # image: /assets/images/machinelearning.jpg
