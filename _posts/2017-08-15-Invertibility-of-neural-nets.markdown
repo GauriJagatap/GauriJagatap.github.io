@@ -13,6 +13,6 @@ mathjax : true
 ---
 <p style='text-align: justify;'>
 As a part of our summer mini-reading group seminar series, I presented a talk on 
-<a href="https://arxiv.org/abs/1705.08664">Towards Understanding the Invertibility of Convolutional Neural Networks</a> by Gilbert et. al.</p>
+<a target="_blank" href='https://arxiv.org/abs/1705.08664'>Towards Understanding the Invertibility of Convolutional Neural Networks</a> by Gilbert et. al.</p>
 
 You can find the highlights of the talk in these [slides]({{ site.url }}/assets/CNNs.pdf).
