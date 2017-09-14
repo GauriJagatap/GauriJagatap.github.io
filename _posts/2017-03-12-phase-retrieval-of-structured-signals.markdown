@@ -29,4 +29,4 @@ You can also find all codes related to the paper on my <a target="_blank" href='
 
 <font size="+2"> Publications </font>
 
-G. Jagatap and C. Hegde, Fast, Sample-Efficient Algorithms for Structured Phase Retrieval, Neural Information Processing Systems (NIPS), December 2017.
+G. Jagatap and C. Hegde, "Fast, Sample-Efficient Algorithms for Structured Phase Retrieval", Neural Information Processing Systems (NIPS), December 2017.
