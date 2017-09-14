@@ -2,9 +2,7 @@
 title: About
 layout: page
 --- 
-![Profile Image]({{ site.url }}/{{ site.picture }} =50x)
-
-<img src="assets/prof.jpg" alt="profileimage" style="width: 200px;"/>
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p style='text-align: justify;'>
 I am a graduate student in the Electrical and Computer Engineering Department of Iowa State Univeristy (ISU), and I have been
