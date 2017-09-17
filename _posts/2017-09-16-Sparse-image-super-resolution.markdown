@@ -28,6 +28,10 @@ Some results showcasing preliminary advantage that our sparse phase retrieval al
 <img src="{{ site.url }}/assets/images/FP1.JPG"/>
 </div>
 
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP2.JPG" />
+</div>
+
 You can find a more detailed report on this project [here]({{ site.url }}/assets/FP_report.pdf).
 
 <font size="+2"> References </font>
