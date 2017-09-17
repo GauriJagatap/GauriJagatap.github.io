@@ -24,6 +24,10 @@ images to be acquired have an underlying structure. For the purpose of this stud
 <p style='text-align: justify;'>
 Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches that do not consider any model on the signal/image under consideration: </p>
 
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP1.JPG"/>
+</div>
+
 You can find a more detailed report on this project [here]({{ site.url }}/assets/FP_report.pdf).
 
 <font size="+2"> References </font>
