@@ -21,9 +21,10 @@ images to be acquired have an underlying structure. For the purpose of this stud
 
 <font size="+2"> Simulation results </font>
 
-Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches that do not consider any model on the signal/image under consideration:
+<p style='text-align: justify;'>
+Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches that do not consider any model on the signal/image under consideration: </p>
 
-You can find a more detailed report on this project here(/assets/FP_report.pdf).
+You can find a more detailed report on this project [here]({{ site.url }}/assets/FP_report.pdf).
 
 <font size="+2"> References </font>
 
@@ -35,4 +36,4 @@ IEEE Transactions on Computational Imaging, 2016.
 G. Jagatap, and C. Hegde
 arXiv preprint arXiv:1705.06412 (2017).
 
-**New to sub-diffractive imaging? Find some quick info on this <a target="_blank" href='https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing'>cheat sheet.</a>
+New to sub-diffractive imaging? Find some quick info on this <a target="_blank" href='https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing'>cheat sheet.</a>
