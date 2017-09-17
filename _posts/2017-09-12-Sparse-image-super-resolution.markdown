@@ -28,14 +28,33 @@ Some results showcasing preliminary advantage that our sparse phase retrieval al
 
 <div style="text-align: center;">
 <img src="{{ site.url }}/assets/images/FP2.JPG" />
-![Experiment 1.2]({{ site.url }}/assets/images/FP2.JPG)
-![Experiment 2.1]({{ site.url }}/assets/images/FP3.JPG)
-![Experiment 2.2]({{ site.url }}/assets/images/FP4.JPG)
-![Experiment 3.1]({{ site.url }}/assets/images/FP5.JPG)
-![Experiment 3.2]({{ site.url }}/assets/images/FP6.JPG)
-![Experiment 4.1]({{ site.url }}/assets/images/FP7.JPG)
-![Experiment 4.2]({{ site.url }}/assets/images/FP8.JPG)
 </div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP3.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP4.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP5.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP6.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP7.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP8.JPG" />
+</div>
+
+
 You can find a more detailed report on this project [here](/assets/FP_report.pdf).
 
 <font size="+2"> References </font>
