@@ -13,17 +13,17 @@ mathjax : true
 <font size="+2"> Project description </font>
 
 <p style='text-align: justify;'>
-In our previous work on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> structured phase retrieval</a>, we noted the advantages of incorporating a sparsity constraint in the phase retrieval algorithm (we call our algorithm CoPRAM). The advantages of this are two fold: fewer number of samples are required for efficient recovery and the recovery procedure is also computationally much faster. </p>
+In our previous work on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> structured phase retrieval</a> [2], we noted the advantages of incorporating a sparsity constraint in the phase retrieval algorithm (we call our algorithm CoPRAM). The advantages of this are two fold: fewer number of samples are required for efficient recovery and the recovery procedure is also computationally much faster. </p>
 
 <p style='text-align: justify;'>
-In this exploratory report, we consider the problem of super-resolution for sub-diffraction imaging. We try to adapt conventional Fourier ptychographic approaches, specifically the one described in <a target="_blank" href='https://arxiv.org/abs/1510.08470'>the reference paper</a> for a subset of problems where the
+In this exploratory report, we consider the problem of super-resolution for sub-diffraction imaging. We try to adapt conventional Fourier ptychographic approaches, specifically the one described in <a target="_blank" href='https://arxiv.org/abs/1510.08470'>the reference paper</a> [1] for a subset of problems where the
 images to be acquired have an underlying structure. For the purpose of this study, we analyze primarily sparse images. We also extend our study to block sparse images. We find that such sparsity assumptions require fewer samples for the recovery procedure and are more feasible to implement.</p>
 
 <font size="+2"> Simulation results </font>
 
 Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches that do not consider any model on the signal/image under consideration:
 
-<img src="{{ site.url }}/assets/images/FP1.JPG" width="200" height="200" />
+<img src="{{ site.url }}/assets/images/FP1.JPG" width="578" height="321" />
 ![Experiment 1.2]({{ site.url }}/assets/images/FP2.JPG)
 ![Experiment 2.1]({{ site.url }}/assets/images/FP3.JPG)
 ![Experiment 2.2]({{ site.url }}/assets/images/FP4.JPG)
@@ -35,11 +35,11 @@ Some results showcasing preliminary advantage that our sparse phase retrieval al
 You can find a more detailed report on this project [here](/assets/FP_report.pdf).
 
 <font size="+2"> References </font>
-"Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays" 
+[1] "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays" 
 J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan
 IEEE Transactions on Computational Imaging, 2016.
 
-"Phase Retrieval Using Structured Sparsity: A Sample Efficient Algorithmic Framework." 
+[2] "Phase Retrieval Using Structured Sparsity: A Sample Efficient Algorithmic Framework." 
 G. Jagatap, and C. Hegde
 arXiv preprint arXiv:1705.06412 (2017).
 
