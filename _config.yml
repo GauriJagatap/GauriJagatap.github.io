@@ -19,7 +19,7 @@ url: http://gaurijagatap.github.io
 # http://www.public.iastate.edu/~gauri
 # your url: http://USERNAME.github.io
 
-permalink: /:path/
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
