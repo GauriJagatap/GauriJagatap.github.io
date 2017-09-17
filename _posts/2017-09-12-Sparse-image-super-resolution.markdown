@@ -22,7 +22,7 @@ images to be acquired have an underlying structure. For the purpose of this stud
 <font size="+2"> Simulation results </font>
 
 Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches that do not consider any model on the signal/image under consideration:
-
+<p style='text-align: justify;'>
 <img src="{{ site.url }}/assets/images/FP1.JPG" width="578" height="321" />
 ![Experiment 1.2]({{ site.url }}/assets/images/FP2.JPG)
 ![Experiment 2.1]({{ site.url }}/assets/images/FP3.JPG)
@@ -31,7 +31,7 @@ Some results showcasing preliminary advantage that our sparse phase retrieval al
 ![Experiment 3.2]({{ site.url }}/assets/images/FP6.JPG)
 ![Experiment 4.1]({{ site.url }}/assets/images/FP7.JPG)
 ![Experiment 4.2]({{ site.url }}/assets/images/FP8.JPG)
-
+</p>
 You can find a more detailed report on this project [here](/assets/FP_report.pdf).
 
 <font size="+2"> References </font>
