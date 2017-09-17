@@ -22,37 +22,11 @@ images to be acquired have an underlying structure. For the purpose of this stud
 <font size="+2"> Simulation results </font>
 
 Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches that do not consider any model on the signal/image under consideration:
-<div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP1.JPG" />
-</div>
 
 <div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP2.JPG" />
+<img src="{{ site.url }}/assets/images/FP1.JPG"/>
 </div>
 
-<div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP3.JPG" />
-</div>
-
-<div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP4.JPG" />
-</div>
-
-<div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP5.JPG" />
-</div>
-
-<div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP6.JPG" />
-</div>
-
-<div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP7.JPG" />
-</div>
-
-<div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/FP8.JPG" />
-</div>
 
 You can find a more detailed report on this project [here](/assets/FP_report.pdf).
 
