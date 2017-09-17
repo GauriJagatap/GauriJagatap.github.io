@@ -26,6 +26,7 @@ Some results showcasing preliminary advantage that our sparse phase retrieval al
 You can find a more detailed report on this project [here](/assets/FP_report.pdf).
 
 <font size="+2"> References </font>
+
 [1] "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays" 
 J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan
 IEEE Transactions on Computational Imaging, 2016.
@@ -35,4 +36,3 @@ G. Jagatap, and C. Hegde
 arXiv preprint arXiv:1705.06412 (2017).
 
 **New to sub-diffractive imaging? Find some quick info on this <a target="_blank" href='https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing'>cheat sheet.</a>
-
