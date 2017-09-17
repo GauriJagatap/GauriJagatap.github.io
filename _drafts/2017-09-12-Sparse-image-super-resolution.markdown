@@ -34,6 +34,25 @@ Some results showcasing preliminary advantage that our sparse phase retrieval al
 <img src="{{ site.url }}/assets/images/FP3.JPG" />
 </div>
 
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP4.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP5.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP6.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP7.JPG" />
+</div>
+
+<div style="text-align: center;">
+<img src="{{ site.url }}/assets/images/FP8.JPG" />
+</div>
 
 
 You can find a more detailed report on this project [here](/assets/FP_report.pdf).
