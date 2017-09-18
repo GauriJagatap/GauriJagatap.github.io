@@ -49,11 +49,11 @@ You can find a more detailed report on this project [here]({{ site.url }}/assets
 
 <font size="+2"> References </font>
 
-[1] "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays", 
+1. "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays", 
 J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan.
 <i>IEEE Transactions on Computational Imaging</i>, 2016.
 
-[2] "Phase Retrieval Using Structured Sparsity: A Sample Efficient Algorithmic Framework." 
+2. "Phase Retrieval Using Structured Sparsity: A Sample Efficient Algorithmic Framework." 
 G. Jagatap, and C. Hegde.
 <i>arXiv preprint arXiv:1705.06412</i>, 2017.
 
