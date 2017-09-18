@@ -2,7 +2,6 @@
 title: About
 layout: page
 --- 
-
 <img src="https://gaurijagatap.github.io/assets/images/prof.jpg" align="left" height="244">I am a graduate student in the Electrical and Computer Engineering Department of Iowa State Univeristy (ISU), and I have been working with <a target="_blank" href='http://home.engineering.iastate.edu/~chinmay/'> Dr. Chinmay Hegde</a> since August 2016. 
 
 My interests lie in the intersection of signal processing and machine learning. For the past year, I have been working on 
