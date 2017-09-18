@@ -2,8 +2,9 @@
 title: About
 layout: page
 --- 
+
 <div style="text-align: center;">
-<img src="{{ site.url }}/assets/images/prof.jpg"/>
+<img src="{{ site.url }}/assets/images/prof.jpg" />
 </div>
 
 <p style='text-align: justify;'>
