@@ -2,7 +2,7 @@
 title: About
 layout: page
 --- 
-<div><img src="/assets/images/prof.jpg" align="left"></div> 
+<div style="text-align: left;"><img src="/assets/images/prof.jpg" align="left"></div> 
 
 <p>I am a graduate student in the Electrical and Computer Engineering Department of Iowa State Univeristy (ISU), and I have been working with <a target="_blank" href='http://home.engineering.iastate.edu/~chinmay/'>Dr. Chinmay Hegde</a> since August 2016. </p>
 
