@@ -4,7 +4,7 @@ layout: page
 --- 
 
 <p style='text-align: justify;'>
-<IMG SRC="{{ site.url }}/assets/images/prof.jpg" ALIGN="right" height="305" width="244">I am a graduate student in the Electrical and Computer Engineering Department of Iowa State Univeristy (ISU), and I have been
+<IMG SRC="{{ site.url }}/assets/images/prof.jpg" ALIGN="right">I am a graduate student in the Electrical and Computer Engineering Department of Iowa State Univeristy (ISU), and I have been
 working with <a target="_blank" href='http://home.engineering.iastate.edu/~chinmay/'> Dr. Chinmay Hegde</a> since August 2016. </p>
 
 <p style='text-align: justify;'>My interests lie in the intersection of signal processing and machine learning. For the past year, I have been working on 
