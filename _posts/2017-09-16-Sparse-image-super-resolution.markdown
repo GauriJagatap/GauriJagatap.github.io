@@ -13,7 +13,7 @@ mathjax : true
 <font size="+2"> Project description </font>
 
 <p style='text-align: justify;'>
-In our previous work on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> structured phase retrieval</a> <sup>2</sup>, we noted the advantages of incorporating a sparsity constraint in the phase retrieval algorithm (we call our algorithm CoPRAM). The advantages of this are two fold: fewer number of samples are required for efficient recovery and the recovery procedure is also computationally much faster. </p>
+In our previous work on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> structured phase retrieval<sup>2</sup></a>, we noted the advantages of incorporating a sparsity constraint in the phase retrieval algorithm (we call our algorithm CoPRAM). The advantages of this are two fold: fewer number of samples are required for efficient recovery and the recovery procedure is also computationally much faster. </p>
 
 <p style='text-align: justify;'>
 In this exploratory report, we consider the problem of super-resolution for sub-diffraction imaging. We try to adapt conventional Fourier ptychographic approaches, specifically the one described in <a target="_blank" href='https://arxiv.org/abs/1510.08470'>the reference paper<sup>1</sup> </a> for a subset of problems where the
