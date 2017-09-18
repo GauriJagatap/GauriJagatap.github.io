@@ -6,7 +6,7 @@ layout: page
 <img class="container" style='width:100%;max-width:250px;margin-right:10px;margin-top:20px;border:2px solid gray' align="left" src='/assets/images/prof.jpg' >
 </div>
 <div  align="center">
-<div style="overflow:hidden; text-align:left;margin:0 auto;">
+<div style="overflow:hidden; text-align:left;margin:0 auto; max-width:100%">
 <p>I am a graduate student in the Electrical and Computer Engineering Department of Iowa State Univeristy (ISU), and I have been working with <a target="_blank" href='http://home.engineering.iastate.edu/~chinmay/'>Dr. Chinmay Hegde</a> since August 2016. </p>
 
 <p> My interests lie in the intersection of signal processing and machine learning. For the past year, I have been working on 
