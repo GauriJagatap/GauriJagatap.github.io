@@ -13,16 +13,16 @@ mathjax : true
 <font size="+2"> Project description </font>
 
 <p style='text-align: justify;'>
-In our previous work on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> structured phase retrieval</a> [2], we noted the advantages of incorporating a sparsity constraint in the phase retrieval algorithm (we call our algorithm CoPRAM). The advantages of this are two fold: fewer number of samples are required for efficient recovery and the recovery procedure is also computationally much faster. </p>
+In our previous work on <a target="_blank" href='https://arxiv.org/abs/1705.06412'> structured phase retrieval</a><sup>2</sup>, we noted the advantages of incorporating a sparsity constraint in the phase retrieval algorithm (we call our algorithm CoPRAM). The advantages of this are two fold: fewer number of samples are required for efficient recovery and the recovery procedure is also computationally much faster. </p>
 
 <p style='text-align: justify;'>
-In this exploratory report, we consider the problem of super-resolution for sub-diffraction imaging. We try to adapt conventional Fourier ptychographic approaches, specifically the one described in <a target="_blank" href='https://arxiv.org/abs/1510.08470'>the reference paper</a> [1] for a subset of problems where the
+In this exploratory report, we consider the problem of super-resolution for sub-diffraction imaging. We try to adapt conventional Fourier ptychographic approaches, specifically the one described in <a target="_blank" href='https://arxiv.org/abs/1510.08470'>the reference paper</a><sup>1</sup> for a subset of problems where the
 images to be acquired have an underlying structure. For the purpose of this study, we analyze primarily sparse images. We also extend our study to block sparse images. We find that such sparsity assumptions require fewer samples for the recovery procedure and are more feasible to implement.</p>
 
 <font size="+2"> Simulation results </font>
 
 <p style='text-align: justify;'>
-Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches, also called Iterative Error Reduction Algorithms (IERA, [1]) that do not consider any model on the signal/image under consideration: </p>
+Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches, also called Iterative Error Reduction Algorithms (IERA<sup>1</sup>) that do not consider any model on the signal/image under consideration: </p>
 
 <div style="text-align: center;">
 <img src="{{ site.url }}/assets/images/FP1.JPG"/>
