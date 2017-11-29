@@ -15,8 +15,8 @@ picture: assets/images/prof.jpg
 resume: true
 resume-external: false
 resume-url: assets/resume.pdf
-#url: http://gaurijagatap.github.io
-url: http://www.public.iastate.edu/~gauri
+url: http://gaurijagatap.github.io
+#url: http://www.public.iastate.edu/~gauri
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -108,8 +108,8 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-#site.url: http://gaurijagatap.github.io
-site.url: http://public.iastate.edu/~gauri
+site.url: http://gaurijagatap.github.io
+#site.url: http://public.iastate.edu/~gauri
 jekyll-mentions:
     base_url: https://github.com
 
