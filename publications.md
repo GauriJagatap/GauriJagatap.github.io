@@ -7,6 +7,8 @@ layout: page
 
 1. G. Jagatap, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Adv. in Neural Information Processing Systems, 2017.
 
+[ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> | [Poster]({{ site.url }}/assets/poster.pdf) | <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
+
 <font size="+2"> Journal and preprints: </font>
 
 1. G. Jagatap, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", submitted to Transactions in Information Theory, 
