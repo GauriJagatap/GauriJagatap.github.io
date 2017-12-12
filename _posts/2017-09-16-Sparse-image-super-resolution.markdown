@@ -47,14 +47,13 @@ Some results showcasing preliminary advantage that our sparse phase retrieval al
 
 You can find a more detailed report on this project [here]({{ site.url }}/assets/FP_report.pdf).
 
+You can find the code <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>here</a>.
+
 <font size="+2"> References </font>
 
-1. "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays", 
-J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan.
-<i>IEEE Transactions on Computational Imaging</i>, 2016.
+1. J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan, "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays", <i>IEEE Transactions on Computational Imaging</i>, 2016.
 
-2. "Phase Retrieval Using Structured Sparsity: A Sample Efficient Algorithmic Framework." 
-G. Jagatap, and C. Hegde.
-<i>arXiv preprint arXiv:1705.06412</i>, 2017.
+2. G. Jagatap, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Adv. in Neural Information Processing Systems, 2017. [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
+
 
 New to sub-diffractive imaging? Find some quick info on this <a target="_blank" href='https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing'>cheat sheet.</a>
