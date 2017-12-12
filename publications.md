@@ -12,7 +12,7 @@ layout: page
 1. G. Jagatap, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", under review, Transactions on Information Theory, 
 (<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2017.
 
-2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier Ptychography
+2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
 and structured sparsity", submitted to  ICASSP, 2018. [ [Paper]({{ site.url }}/assets/FP_report.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 3. Z. Chen, G. Jagatap, S. Nayer, C. Hegde, N. Vaswani, "Low rank Fourier ptychography", submitted to  ICASSP, 2018. [[Paper]({{ site.url }}/assets/LRFP_report.pdf)]
