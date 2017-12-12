@@ -25,4 +25,6 @@ and structured sparsity", submitted to  ICASSP, 2018. [ [Paper]({{ site.url }}/a
 
 3. Phase retrieval using structured sparsity: a sample efficient algorithmic framework, WIML 2017.
 
+You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a>.
+
 
