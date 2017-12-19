@@ -13,7 +13,7 @@ mathjax : true
 <p style='text-align: justify;'>
 If you're new to the field of phase retrieval and want to explore some of the techniques that utilize sparsity, I have created a database of algorithms for sparse phase retrieval.
 
-You can find the MATLAB codes for this problem in my <a target="_blank" href='https://github.com/GauriJagatap/model-copram'> GitHub repository for CoPRAM</a>, with a details on the implementation.
+You can find the MATLAB codes for this problem in my <a target="_blank" href='https://github.com/GauriJagatap/model-copram'> GitHub repository for CoPRAM</a>, with all details on the implementation.
 
 The papers in this implementation utilize Gaussian measurements to recover sparse signals from phaseless measurements:
 </p>
@@ -27,9 +27,9 @@ The papers in this implementation utilize Gaussian measurements to recover spars
 Apart from Gaussian measurements, several papers analyze the sparse phase retrieval problem under the Fourier measurement framework. Some papers that explore this option, with publicly available code:
 </p>
 
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 
 
