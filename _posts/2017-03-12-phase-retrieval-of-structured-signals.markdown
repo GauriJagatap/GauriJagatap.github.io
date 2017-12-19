@@ -30,5 +30,8 @@ You can also find all codes related to the paper on my <a target="_blank" href='
 
 <font size="+2"> Publications </font>
 
-G. Jagatap and C. Hegde, "Fast, Sample-Efficient Algorithms for Structured Phase Retrieval", Neural Information Processing Systems (NIPS), December 2017.
-[[Poster]({{ site.url }}/assets/poster.pdf)]
+1. G. Jagatap and C. Hegde, "Fast, Sample-Efficient Algorithms for Structured Phase Retrieval", Neural Information Processing Systems (NIPS), December 2017.  [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
+
+2. (Extended version with additional results) G. Jagatap, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", under review, Transactions on Information Theory, 
+(<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2017.
+
