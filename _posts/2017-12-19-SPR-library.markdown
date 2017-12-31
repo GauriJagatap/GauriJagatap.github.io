@@ -13,7 +13,7 @@ mathjax : true
 <p style='text-align: justify;'>
 If you're new to the field of phase retrieval and want to explore some of the techniques that utilize sparsity, I have created a database of algorithms for sparse phase retrieval.
 
-You can find the MATLAB codes for this problem in my <a target="_blank" href='https://github.com/GauriJagatap/model-copram'> GitHub repository for CoPRAM</a>, with all details on the implementation.
+You can find the MATLAB codes for this problem in my <a target="_blank" href='https://github.com/GauriJagatap/model-copram'> GitHub repository</a> for <a target="_blank" href='https://gaurijagatap.github.io/phase-retrieval-of-structured-signals/'>CoPRAM</a>, with all details on the implementation.
 
 The papers in this implementation utilize Gaussian measurements to recover sparse signals from phaseless measurements:
 </p>
@@ -35,4 +35,4 @@ General optimization tools:
 <a target="_blank" href='http://webee.technion.ac.il/people/YoninaEldar/software_det12.php'>Sparsity Constrained Nonlinear Optimization: Optimality Conditions and Algorithms</a>
 
 
-[to be updated]
+[last updated 12/31/2017]
