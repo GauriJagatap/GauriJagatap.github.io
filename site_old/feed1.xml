@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-19T00:31:36+05:30</updated><id>http://localhost:4000/</id><title type="html">Gauri Jagatap</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Sub-diffractive super-resolution of structured images using Fourier ptychography</title><link href="http://localhost:4000/Sparse-image-super-resolution/" rel="alternate" type="text/html" title="Sub-diffractive super-resolution of structured images using Fourier ptychography" /><published>2017-09-12T19:59:00+05:30</published><updated>2017-09-12T19:59:00+05:30</updated><id>http://localhost:4000/Sparse-image-super-resolution</id><content type="html" xml:base="http://localhost:4000/Sparse-image-super-resolution/">&lt;font size=&quot;+2&quot;&gt; Project description &lt;/font&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+In our previous work on &lt;a target=&quot;_blank&quot; href=&quot;https://arxiv.org/abs/1705.06412&quot;&gt; structured phase retrieval&lt;/a&gt;, we noted the advantages of incorporating a sparsity constraint in the phase retrieval algorithm (we call our algorithm CoPRAM). The advantages of this are two fold: fewer number of samples are required for efficient recovery and the recovery procedure is also computationally much faster. &lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+In this exploratory report, we consider the problem of super-resolution for sub-diffraction imaging. We try to adapt conventional Fourier ptychographic approaches, specifically the one described in &lt;a target=&quot;_blank&quot; href=&quot;https://arxiv.org/abs/1510.08470&quot;&gt;the reference paper&lt;/a&gt; for a subset of problems where the
+images to be acquired have an underlying structure. For the purpose of this study, we analyze primarily sparse images. We also extend our study to block sparse images. We find that such sparsity assumptions require fewer samples for the recovery procedure and are more feasible to implement.&lt;/p&gt;
+
+&lt;font size=&quot;+2&quot;&gt; Simulation results &lt;/font&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+Some results showcasing preliminary advantage that our sparse phase retrieval algorithm offers, over conventional approaches that do not consider any model on the signal/image under consideration: &lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/FP1.JPG&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/FP2.JPG&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/FP3.JPG&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/FP4.JPG&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/FP5.JPG&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You can find a more detailed report on this project &lt;a href=&quot;http://localhost:4000/assets/FP_report.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;font size=&quot;+2&quot;&gt; References &lt;/font&gt;
+
+&lt;p&gt;[1] “Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays”, 
+J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan.
+&lt;i&gt;IEEE Transactions on Computational Imaging&lt;/i&gt;, 2016.&lt;/p&gt;
+
+&lt;p&gt;[2] “Phase Retrieval Using Structured Sparsity: A Sample Efficient Algorithmic Framework.” 
+G. Jagatap, and C. Hegde.
+&lt;i&gt;arXiv preprint arXiv:1705.06412&lt;/i&gt;, 2017.&lt;/p&gt;
+
+&lt;p&gt;New to sub-diffractive imaging? Find some quick info on this &lt;a target=&quot;_blank&quot; href=&quot;https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing&quot;&gt;cheat sheet.&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="phase retrieval" /><summary type="html">Project description</summary></entry><entry><title type="html">Invertibility of convolutional neural networks</title><link href="http://localhost:4000/Invertibility-of-neural-nets/" rel="alternate" type="text/html" title="Invertibility of convolutional neural networks" /><published>2017-08-15T19:48:00+05:30</published><updated>2017-08-15T19:48:00+05:30</updated><id>http://localhost:4000/Invertibility-of-neural-nets</id><content type="html" xml:base="http://localhost:4000/Invertibility-of-neural-nets/">&lt;p style=&quot;text-align: justify;&quot;&gt;
+As a part of our summer mini-reading group seminar series, I presented a talk on Towards Understanding the &lt;a target=&quot;_blank&quot; href=&quot;https://arxiv.org/abs/1705.08664&quot;&gt; Invertibility &lt;/a&gt; of Convolutional Neural Networks by Gilbert et. al.&lt;/p&gt;
+
+&lt;p&gt;You can find the highlights of the talk in these &lt;a href=&quot;http://localhost:4000/assets/CNNs.pdf&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="machine learning" /><category term="neural networks" /><summary type="html">As a part of our summer mini-reading group seminar series, I presented a talk on Towards Understanding the Invertibility of Convolutional Neural Networks by Gilbert et. al.</summary></entry><entry><title type="html">Topic extraction using NMF and Sparse PCA</title><link href="http://localhost:4000/topic-extraction-using-NMF-and-Sparse-PCA/" rel="alternate" type="text/html" title="Topic extraction using NMF and Sparse PCA" /><published>2017-07-11T19:48:00+05:30</published><updated>2017-07-11T19:48:00+05:30</updated><id>http://localhost:4000/topic-extraction-using-NMF-and-Sparse-PCA</id><content type="html" xml:base="http://localhost:4000/topic-extraction-using-NMF-and-Sparse-PCA/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/text.JPG&quot; alt=&quot;Topic extraction&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+I happened to do two course projects in Spring 2017 on two allied problems: (i) Non-negative matrix factorization and (ii) Sparse PCA. While the problem formulation is different, both of them can be used in the context of extracting topics from a given database of documents.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+In the following slides, I study and demonstrate some results in topic extraction and other applications using both of these formulations. &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/NMF.pdf&quot;&gt;Non-negative Matrix Factorization&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Methods used: &lt;a target=&quot;_blank&quot; href=&quot;http://ieeexplore.ieee.org/document/6166359/&quot;&gt;Nesterov’s Orthogonal Gradient Method&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;https://arxiv.org/pdf/1208.1237.pdf&quot;&gt;Separable NMF&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/assets/SPCA.pdf&quot;&gt;Sparse PCA&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Methods used: &lt;a target=&quot;_blank&quot; href=&quot;http://www.jmlr.org/papers/volume14/yuan13a/yuan13a.pdf&quot;&gt;Truncated Power Method&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;https://arxiv.org/abs/1012.0774&quot;&gt;Inverse Power Method&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="machine learning" /><category term="data science" /><summary type="html"></summary></entry><entry><title type="html">ReLU-based neural networks</title><link href="http://localhost:4000/ReLU-based-neural-net/" rel="alternate" type="text/html" title="ReLU-based neural networks" /><published>2017-06-16T19:48:00+05:30</published><updated>2017-06-16T19:48:00+05:30</updated><id>http://localhost:4000/ReLU-based-neural-net</id><content type="html" xml:base="http://localhost:4000/ReLU-based-neural-net/">&lt;p style=&quot;text-align: justify;&quot;&gt;
+Learning ReLUs using gradient descent: an insight.
+
+Close on the heals of the phase retrieval problem is that of establishing performance guarantees on single layer neural networks with ReLU activation functions. &lt;/p&gt;
+
+&lt;p&gt;[to be updated]&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="machine learning" /><category term="data science" /><summary type="html">Learning ReLUs using gradient descent: an insight.</summary></entry><entry><title type="html">Phase retrieval of structured signals</title><link href="http://localhost:4000/phase-retrieval-of-structured-signals/" rel="alternate" type="text/html" title="Phase retrieval of structured signals" /><published>2017-03-12T19:48:00+05:30</published><updated>2017-03-12T19:48:00+05:30</updated><id>http://localhost:4000/phase-retrieval-of-structured-signals</id><content type="html" xml:base="http://localhost:4000/phase-retrieval-of-structured-signals/">&lt;font size=&quot;+2&quot;&gt; Abstract &lt;/font&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+We consider the problem of recovering a signal $\mathbf{x}^* \in \mathbb{R}^n$, from magnitude-only measurements, $y_i = | \left\langle {\mathbf{a}_i},{\mathbf{x}^*} \right\rangle | $ for $i=\{1,2,\ldots,m\}$. This is a stylized version of the classical phase retrieval problem, and is a fundamental challenge in nano- and bio-imaging systems, astronomical imaging, and speech processing. It is well known that the above problem is ill-posed, and therefore some additional assumptions on the signal and/or the measurements are necessary.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+In this paper, we first study the case where the underlying signal $\mathbf{x}^*$ is $s$-sparse. For this case, we develop a novel recovery algorithm that we call &lt;i&gt;Compressive Phase Retrieval with Alternating Minimization&lt;/i&gt;, or &lt;i&gt;CoPRAM&lt;/i&gt;. Our algorithm is simple and be obtained via a natural combination of the classical alternating minimization approach for phase retrieval with the CoSaMP algorithm for sparse recovery. Despite its simplicity, we prove that our algorithm achieves a sample complexity of $O(s^2 \log n)$ with Gaussian measurements $\mathbf{a}_i$, which matches the best known existing results; moreover, it also demonstrates linear convergence in theory and practice. An appealing feature of our algorithm is that it requires no extra tuning parameters other than the signal sparsity level $s$.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+We then consider the case where the underlying signal $\mathbf{x}^*$ arises from &lt;i&gt;structured&lt;/i&gt; sparsity models. We specifically examine the case of &lt;i&gt;block-sparse&lt;/i&gt; signals with uniform block size of $b$ and block sparsity $k=s/b$. For this problem, we design a recovery algorithm that we call &lt;i&gt;Block CoPRAM&lt;/i&gt; that further reduces the sample complexity to $O(ks \log n)$. For sufficiently large block lengths of $b=\Theta(s)$, this bound equates to $O(s \log n)$. To our knowledge, this constitutes the first end-to-end linearly convergent algorithm for phase retrieval where the Gaussian sample complexity has a sub-quadratic dependence on the signal sparsity level. &lt;/p&gt;
+
+&lt;p&gt;You can read the full paper on &lt;a target=&quot;_blank&quot; href=&quot;https://arxiv.org/abs/1705.06412&quot;&gt; arXiv &lt;/a&gt;.&lt;/p&gt;
+
+&lt;font size=&quot;+2&quot;&gt; Code &lt;/font&gt;
+
+&lt;p&gt;You can also find all codes related to the paper on my &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/GauriJagatap/model-copram&quot;&gt; GitHub page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;font size=&quot;+2&quot;&gt; Publications &lt;/font&gt;
+
+&lt;p&gt;G. Jagatap and C. Hegde, “Fast, Sample-Efficient Algorithms for Structured Phase Retrieval”, Neural Information Processing Systems (NIPS), December 2017.&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="machine learning" /><category term="data science" /><category term="phase retrieval" /><summary type="html">Abstract</summary></entry><entry><title type="html">Compressed sensing for ultrasound imaging</title><link href="http://localhost:4000/compressed-sensing-for-ultrasound-imaging/" rel="alternate" type="text/html" title="Compressed sensing for ultrasound imaging" /><published>2016-07-15T19:48:00+05:30</published><updated>2016-07-15T19:48:00+05:30</updated><id>http://localhost:4000/compressed-sensing-for-ultrasound-imaging</id><content type="html" xml:base="http://localhost:4000/compressed-sensing-for-ultrasound-imaging/">&lt;p style=&quot;text-align: justify;&quot;&gt;
+My introduction to data science and the field of compressed sensing was primarily through the project that I did at the Spectrum Lab of the Indian Institute of Science. It involved analyzing ultrasound images and their underlying sparsity and using the compressed sensing framework to reduce the number of samples acquired in the imaging process. While most ultrasound images are sparse in the standard basis itself, I considered a number of wavelet bases that could emulate the impulse response of the ultrasound transducer, which promotes further sparsity.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+It essentially boils down to solving the well known Lasso problem, which I did, using Alternating Directions Method of Multipliers (ADMM). &lt;/p&gt;
+
+&lt;p&gt;Lasso Problem.&lt;/p&gt;
+
+&lt;p&gt;Link to basic code (on GitHub).&lt;/p&gt;
+
+&lt;p&gt;[to be updated]&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="compressed sensing" /><category term="ultrasound imaging" /><summary type="html">My introduction to data science and the field of compressed sensing was primarily through the project that I did at the Spectrum Lab of the Indian Institute of Science. It involved analyzing ultrasound images and their underlying sparsity and using the compressed sensing framework to reduce the number of samples acquired in the imaging process. While most ultrasound images are sparse in the standard basis itself, I considered a number of wavelet bases that could emulate the impulse response of the ultrasound transducer, which promotes further sparsity.</summary></entry><entry><title type="html">Video segmentation using ADMM</title><link href="http://localhost:4000/video-segmentation/" rel="alternate" type="text/html" title="Video segmentation using ADMM" /><published>2015-02-10T19:48:00+05:30</published><updated>2015-02-10T19:48:00+05:30</updated><id>http://localhost:4000/video-segmentation</id><content type="html" xml:base="http://localhost:4000/video-segmentation/">&lt;p style=&quot;text-align: justify;&quot;&gt;
+This was my starter kit to the world of data science. I did this project in a largely unguided fashion, but it gave me a good idea about low-rank and sparse problems in signal processing.&lt;/p&gt;
+
+&lt;p&gt;An excerpt:&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+Video data transmitted by surveillance cameras is generally processed to detect
+moving objects automatically. The video generally consists of a moving object that covers a small fraction of a video frame and majority of the frame is spanned by the background. If each frame is vectorized, and these vectors are concatenated, it is referred to this as the video volume. The video volume can be split into the background and the moving objects (background separation). An intuitive method to separate out the background is by using the fact that the background being stationary, will form the low rank part of the video volume. On the other hand, the moving objects constitute the sparse component. This decomposition is done using a low rank and sparse decomposition of the video volume.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+The speed of this processing however, is slowed down by the abundance of data
+collected, which mostly consists of spells of inactivity. Compressive sensing is a technique used to acquire video data in a different basis, instead of the usual spatial basis, like Fourier or Wavelet, that involves acquiring a small fraction (up to 50% in this paper, lower fractions can be used for larger number of frames or higher resolution data) of the data that would have been acquired in the spatial basis.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+This method works when the given data is sparse in this basis, which validates the low sampling rate (less than Nyquist). Sparse signal recovery from such compressive measurements is a process of minimizing the nuclear norm or l0 norm of the signal (in this case, video volume) in the transformed basis (which ensures sparsity in the transformed basis). The whole video volume can be recovered from this norm minimization and further background separation techniques can be employed to separate out the moving objects.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+However, one can formulate the minimization problem such that the background
+and moving objects are separated out during the recovery. Moreover, one
+1
+can choose tight wavelet transforms, which have specific properties that help simplify the minimization problem significantly. &lt;/p&gt;
+
+&lt;p&gt;The implementation described is based on &lt;a target=&quot;_blank&quot; href=&quot;https://arxiv.org/abs/1302.1942&quot;&gt; this paper &lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find details of my project work &lt;a href=&quot;http://localhost:4000/assets/vid_seg.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="projects" /><category term="machine learning" /><category term="data science" /><summary type="html">This was my starter kit to the world of data science. I did this project in a largely unguided fashion, but it gave me a good idea about low-rank and sparse problems in signal processing.</summary></entry></feed>
