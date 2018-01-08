@@ -35,4 +35,4 @@ You can also find all codes related to the paper on my <a target="_blank" href='
 2. (Extended version with additional results) G. Jagatap, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", under review, IEEE Transactions on Information Theory, 
 (<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2017.
 
-3. G. Jagatap, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", submitted to, IEEE International Symposium on Information Theory, ([preprint]({{ site.url }}/assets/treePR_main.pdf)), 2018.
+3. G. Jagatap, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", submitted to, IEEE International Symposium on Information Theory, ([preprint]({{ site.url }}/assets/ISIT18.pdf)), 2018.
