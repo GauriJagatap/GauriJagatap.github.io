@@ -1,0 +1,19 @@
+---
+title: "NIPS 2017: Themes and Takeaways"
+layout: post
+date: 2017-12-28 16:06
+# image: /assets/images/machinelearning.jpg
+# headerImage: true
+tag:
+- machine learning
+- data science
+category: blog
+mathjax : true
+---
+<p style='text-align: justify;'>
+A <a target="_blank" href='https://thecognitivevortex.wordpress.com/2017/12/27/nips-2017-themes-and-takeaways/'>blog post</a> by me on ideas that caught my eye, some that went over my head and few that permeated straight through to the brain, while at NIPS ’17. 
+Via <a target="_blank" href='https://thecognitivevortex.wordpress.com/'>The Cognitive Vortex</a>. 
+
+
+</p>
+
