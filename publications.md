@@ -28,6 +28,8 @@ and structured sparsity", submitted to  ICASSP, 2018. [ [Paper]({{ site.url }}/a
 {% endcomment %}
 <font size="+2"> Posters: </font>
 
+1. Fast, sample efficient algorithms for structured phase retrieval, 31st Annual Conference on Neural Information Processing Systems(NIPS), 2017.
+
 2. Phase retrieval using structured sparsity: a sample efficient algorithmic framework, Women in Machine Learning (WIML) Workshop, 2017.
 
 3. Fast and sample efficient algorithms for structured phase retrieval, Midwest Machine Learning Symposium (MMLS), 2017.
