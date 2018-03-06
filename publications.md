@@ -14,11 +14,11 @@ and structured sparsity", *to appear*, IEEE International Conference on Acoustic
 
 <font size="+2"> Journal and preprints: </font>
 
-1. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography", submitted to  IEEE International Conference on Image Processing (ICIP), ([preprint]({{ site.url }}/assets/ICIP18.pdf)), 2018.
+1. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography", *under review*,  IEEE International Conference on Image Processing (ICIP), ([preprint]({{ site.url }}/assets/ICIP18.pdf)), 2018.
 
-2. **G. Jagatap**, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", submitted to, IEEE International Symposium on Information Theory (ISIT), ([preprint]({{ site.url }}/assets/ISIT18.pdf)), 2018.
+2. **G. Jagatap**, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", *under review*, IEEE International Symposium on Information Theory (ISIT), ([preprint]({{ site.url }}/assets/ISIT18.pdf)), 2018.
 
-3. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", under review, IEEE Transactions on Information Theory, 
+3. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", *under review*, IEEE Transactions on Information Theory, 
 (<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2017.
 {% comment %}
 2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
