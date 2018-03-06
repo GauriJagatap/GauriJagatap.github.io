@@ -5,6 +5,11 @@ layout: page
 
 <font size="+2"> Conference publications: </font>
 
+2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
+and structured sparsity", *to appear*, International Conference on Acoustics, Speech, and Signal Processing, 2018. [ [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+
+3. Z. Chen, G. Jagatap, S. Nayer, C. Hegde, N. Vaswani, "Low rank Fourier ptychography", to appear*, International Conference on Acoustics, Speech, and Signal Processing, 2018. [[Paper]({{ site.url }}/assets/LRFP.pdf)]
+
 1. G. Jagatap, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Adv. in Neural Information Processing Systems, 2017. [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
 
 <font size="+2"> Journal and preprints: </font>
@@ -13,6 +18,8 @@ layout: page
 (<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2017.
 
 2. G. Jagatap, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", submitted to, IEEE International Symposium on Information Theory, ([preprint]({{ site.url }}/assets/ISIT18.pdf)), 2018.
+
+2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography", submitted to  ICIP, [ [preprint]({{ site.url }}/assets/ICIP18.pdf) ], 2018.
 
 {% comment %}
 2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
