@@ -8,7 +8,7 @@ layout: page
 1. **G. Jagatap**, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", *to appear*, IEEE International Symposium on Information Theory (ISIT), ([preprint]({{ site.url }}/assets/ISIT18.pdf)), 2018.
 
 2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
-and structured sparsity", *to appear*, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [ Oral Presentation / [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+and structured sparsity", *to appear*, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [ [Oral Presentation]({{ site.url }}/assets/slides-icassp18.pdf) / [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 3. Z. Chen, **G. Jagatap**, S. Nayer, C. Hegde, N. Vaswani, "Low rank Fourier ptychography", *to appear*, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [[Paper]({{ site.url }}/assets/LRFP.pdf)]
 
