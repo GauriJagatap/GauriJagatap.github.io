@@ -1,7 +1,7 @@
 ---
 title: "Sub-diffractive super-resolution of structured images using Fourier ptychography"
 layout: post
-date: 2017-09-12 19:59
+date: 2018-04-20 19:59
 # image: /assets/images/machinelearning.jpg
 # headerImage: true
 tag:
@@ -51,9 +51,12 @@ You can find the code <a target="_blank" href='https://github.com/GauriJagatap/c
 
 <font size="+2"> References </font>
 
-1. J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan, "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays", <i>IEEE Transactions on Computational Imaging</i>, 2016.
+1. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
+and structured sparsity", *to appear*, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [ [Oral Presentation]({{ site.url }}/assets/slides-icassp18.pdf) / [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
-2. G. Jagatap, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Adv. in Neural Information Processing Systems, 2017. [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
+2. J. Holloway, M.S. Asif, M.K. Sharma, N. Matsuda, R. Horstmeyer, O. Cossairt, and A. Veeraraghavan, "Toward Long Distance, Sub-diffraction Imaging Using Coherent Camera Arrays", <i>IEEE Transactions on Computational Imaging</i>, 2016.
+
+3. G. Jagatap, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Adv. in Neural Information Processing Systems, 2017. [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
 
 
 New to sub-diffractive imaging? Find some quick info on this <a target="_blank" href='https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing'>cheat sheet.</a>
