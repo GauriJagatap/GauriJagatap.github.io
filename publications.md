@@ -18,8 +18,11 @@ and structured sparsity", *to appear*, IEEE International Conference on Acoustic
 
 <font size="+2"> Journal and preprints: </font>
 
-1. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", *under review*, IEEE Transactions on Information Theory, 
+1. **G. Jagatap**, C. Hegde, “Learning Networks of ReLUs via Alternating Minimization”, May 2018.
+
+2. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", *under review*, IEEE Transactions on Information Theory, 
 (<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2017.
+
 {% comment %}
 2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
 and structured sparsity", submitted to  ICASSP, 2018. [ [Paper]({{ site.url }}/assets/FP_report.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
