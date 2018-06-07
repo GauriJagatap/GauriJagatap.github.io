@@ -18,7 +18,7 @@ and structured sparsity", *to appear*, IEEE International Conference on Acoustic
 
 <font size="+2"> Journal and preprints: </font>
 
-1. **G. Jagatap**, C. Hegde, “Learning Networks of ReLUs via Alternating Minimization”, May 2018.
+1. **G. Jagatap**, C. Hegde, "Learning Networks of ReLUs via Alternating Minimization", May 2018.
 
 2. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", *under review*, IEEE Transactions on Information Theory, 
 (<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2017.
