@@ -5,9 +5,9 @@ layout: page
 
 <font size="+2"> Conference publications: </font>
 
-1. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography", *to appear*,  IEEE International Conference on Image Processing (ICIP), ([preprint]({{ site.url }}/assets/ICIP18.pdf)), 2018.
+1. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography", *to appear*,  IEEE International Conference on Image Processing (ICIP), 2018. ([preprint]({{ site.url }}/assets/ICIP18.pdf)).
 
-2. **G. Jagatap**, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", *to appear*, IEEE International Symposium on Information Theory (ISIT), [ [Oral Presentation]({{ site.url }}/assets/slides-isit18.pdf) /[Paper]({{ site.url }}/assets/ISIT18_final.pdf) / [Full Paper]({{ site.url }}/assets/ISIT18.pdf) /<a target="_blank" href='https://github.com/GauriJagatap/model-copram/tree/trees'> Code </a>], 2018.
+2. **G. Jagatap**, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", *to appear*, IEEE International Symposium on Information Theory (ISIT), 2018. [ [Oral Presentation]({{ site.url }}/assets/slides-isit18.pdf) /[Paper]({{ site.url }}/assets/ISIT18_final.pdf) / [Full Paper]({{ site.url }}/assets/ISIT18.pdf) /<a target="_blank" href='https://github.com/GauriJagatap/model-copram/tree/trees'> Code </a>]
 
 3. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
 and structured sparsity", *to appear*, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [ [Oral Presentation]({{ site.url }}/assets/slides-icassp18.pdf) / [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
