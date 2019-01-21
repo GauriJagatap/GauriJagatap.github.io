@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+# frozen_string_literal: true
 
-gem 'github-pages'
-gem 'html-proofer'
+source "https://rubygems.org"
+gemspec
