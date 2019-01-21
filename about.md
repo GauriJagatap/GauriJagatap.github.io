@@ -13,8 +13,6 @@ layout: page
 developing algorithms for the <a target="_blank" href='https://gaurijagatap.github.io/SPR-library/'>sparse phase-retrieval problem</a>. Apart from this, I have recently been working on theoretically analyzing shallow ReLU networks. I also helped set-up the <a target="_blank" href='http://dsrg.stuorg.iastate.edu/'>Data Science Reading Group</a> at ISU. As a part of the student organization, I help
 coordinate seminar sessions on some of the latest topics in data science. I also enjoy writing about about some of my pseudo-scientific musings on my blog called <a target="_blank" href='https://thecognitivevortex.wordpress.com/'>The Cognitive Vortex</a>.</p> 
 
-As of Summer 2018, I am a research intern at <a target="_blank" href='http://www.merl.com/'>Mitsubishi Electric Research Laboratories</a> where I am being mentored by <a target="_blank" href='https://boufounos.com/about-me/'>Dr. Petros Boufounos</a>. 
-
 <p> I am also an alumnus of the BITS Pilani University (Goa), where I earned dual degrees in Physics (M.Sc.) and Electrical and Electronics Engineering (B.E.) in 2015.</p>
 </div>
 </div>
