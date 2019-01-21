@@ -1,11 +1,11 @@
 intro:
-  lead-in: ""
+  lead-in: Hello
   heading: Gauri Jagatap
   btn: Tell Me More
 
 portfolio:
   heading: Projects
-  subheading: ""
+  subheading: Know more
 
 about:
   heading: About
@@ -34,7 +34,7 @@ about:
 
 team:
   heading: About me
-  subheading: ""
+  subheading: More about me
   members:
     - name: Gauri Jagatap
       role: PhD student
@@ -47,7 +47,7 @@ team:
         - icon: fa fa-linkedin
           url: "#"
 
-  text: ""
+  text: That's all as of now.
 
 clients:
   - img: img/logos/envato.jpg
@@ -57,7 +57,7 @@ clients:
 
 contact:
   heading: Contact 
-  subheading: ""
+  subheading: Contact me
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
