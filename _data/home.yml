@@ -1,11 +1,7 @@
 intro:
-  lead-in: Hello
+  lead-in: ''
   heading: Gauri Jagatap
   btn: Tell Me More
-
-portfolio:
-  heading: Projects
-  subheading: Know more
 
 about:
   heading: About
@@ -31,6 +27,10 @@ about:
   end1: Be Part
   end2: Of Our
   end3: Story!
+
+portfolio:
+  heading: Projects
+  subheading: Know more
 
 team:
   heading: About me
