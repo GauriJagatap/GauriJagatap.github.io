@@ -1,6 +1,6 @@
-title: Agency - Start Bootstrap Theme
+title: Gauri Jagatap
 description: ''
-author: ''
+author: Gauri Jagatap
 
 sass:
   style: compressed
@@ -8,4 +8,4 @@ sass:
 assets_path: '' 
 
 collections:
-  projects:
+  projects: 1

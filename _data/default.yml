@@ -1,16 +1,14 @@
 brand:
-  name: Start Bootstrap
+  name: Home
 menu-string: Menu
 
 nav:
-  - title: Services
-    url: '#services'
-  - title: Portfolio
-    url: '#portfolio'
+  - title: Projects
+    url: '#projects'
   - title: About
     url: '#about'
-  - title: Team
-    url: '#team'
+  - title: Resume
+    url: '#resume'
   - title: Contact
     url: '#contact'
 
@@ -18,11 +16,9 @@ copyright: Copyright &copy; Your Website 2018
 
 social-buttons:
   - icon: fa fa-twitter
-    url: '#' 
-  - icon: fa fa-facebook
-    url: '#'
+    url: 'https://twitter.com/gaurijagatap' 
   - icon: fa fa-linkedin
-    url: '#'
+    url: 'https://www.linkedin.com/in/gauri-jagatap'
 
 quicklinks:
   - title: Privacy Policy
