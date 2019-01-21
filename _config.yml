@@ -1,115 +1,65 @@
-# main text of home
-name: Gauri Jagatap
-bio: Perpetually curious.
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
 
-# twitter summary info
-description: A blog about technology and stuff related
+# Site settings
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/prof.jpg
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: false
-resume-url: assets/resume.pdf
-url: http://gaurijagatap.github.io
-#url: http://www.public.iastate.edu/~gauri
-# your url: http://USERNAME.github.io
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 
-permalink: /:title/
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
-# if you don't want comments in your posts, leave categories empty
-disqus:
-shortname: 
-# mydisqus # enter this from your disqus account
-categories: 
-# [blog, project] # only show disqus for posts that have these categories
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
-# if you don't have any of social below, comment the line
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: gauri-jagatap
-# youtube: myyoutube
-# spotify: myspotify
-github: GauriJagatap
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-email: gauri@iastate.edu
-wordpress: thecognitivevortex
-facebook: gauri.jagatap
-twitter: gaurijagatap
-
-#authors:
-#    johndoe:
-#        name: John Doe
-#        bio: A Man who travels the world eating noodles
-#        external-image: false
-#        picture: assets/images/profile.jpg
-#        twitter: johndoe
-#    jamesfoster:
-#        name: James Foster
-#        bio: A Man who develops software with coffee
-#        external-image: false
-#        picture: assets/images/james.jpg
-#        twitter: jamesfoster
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: large
-
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-# if you don't need projects, comment the *projects* configs below
-research: true
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
-publications: true
-
-# do you want to show the "read time" of the posts?
-read-time: true
-
-# do you want to show the "tags" inside the posts?
-show-tags: true
-
-# related posts inside a post?
-related: true
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
-show-author: false
-
-# do you want some animations?
-animation: true
-
-gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-site.url: http://gaurijagatap.github.io
-#site.url: http://public.iastate.edu/~gauri
-jekyll-mentions:
-    base_url: https://github.com
-
+# Build settings
+markdown: kramdown
+permalink: pretty
