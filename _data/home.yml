@@ -3,6 +3,10 @@ intro:
   heading: Gauri Jagatap
   btn: Tell Me More
 
+portfolio:
+  heading: Projects
+  subheading: Know more
+
 about:
   heading: About
   subheading: Lorem ipsum dolor sit amet consectetur.
@@ -28,9 +32,7 @@ about:
   end2: Of Our
   end3: Story!
 
-portfolio:
-  heading: Projects
-  subheading: Know more
+
 
 team:
   heading: About me
