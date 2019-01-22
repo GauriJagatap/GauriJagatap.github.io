@@ -3,16 +3,16 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Projects
-    url: '#portfolio'
   - title: About
     url: '#about'
+  - title: Projects
+    url: '#portfolio'
   - title: Contact
     url: '#contact'
   - title: Resume
     url: '/assets/resume.pdf'
   - title: Publications
-    url: '/publications.md'
+    url: 'https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'
 
 copyright: Copyright &copy; Your Website 2018
 
@@ -34,3 +34,5 @@ modal:
   category-string: 'Category: '
   close-icon: 'fa fa-times'
   close-string: 'Close Project'
+
+mathjax:
