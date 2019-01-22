@@ -11,6 +11,8 @@ nav:
     url: '#contact'
   - title: Resume
     url: '/assets/resume.pdf'
+  - title: Publications
+    url: '/publications.md'
 
 copyright: Copyright &copy; Your Website 2018
 
