@@ -13,30 +13,20 @@ about:
   timeline:
     - image: img/about/1.jpg
       date: 2016-Present
-      title: Iowa State
-      text: I'm a PhD student at Iowa State University
+      title: Iowa State University
+      text: I'm currently a PhD student at Iowa State University in the Electrical and Computer Engineering department. I work under the supervision of Dr. Chinmay Hegde. I have primarily worked on topics in phase retrieval, image super-resolution and machine learning optimization.
     - image: img/about/1.jpg
-      date: 2009-2011
-      title: Intern at MERL
-      text: I'm a PhD student at Iowa State University
+      date: 2018
+      title: Mitsubishi Electrical Research Laboratories, Cambridge
+      text: I had the opportunity to intern at Mitsubishi Electric Research Laboratories (MERL), Cambridge over the summer of 2018. Here, I worked on multimodal active sensing and had the privilege to be guided by Dr. Petros Boufonos and Dr. Hassan Mansour.
     - image: img/about/1.jpg
       date: 2015-2016
-      title: IISc
-      text: I'm a PhD student at Iowa State University
+      title: Indian Institute of Science, Bangalore.
+      text: I was a project assistant at the Spectrum Lab in the Electrical Engineering department and was guided by Dr. Chandra Sekhar Seelamantula. I worked on super-resolution of ultrasound images by using compressed sensing.
     - image: img/about/1.jpg
       date: 2010-2015
-      title: BITS Pilani
+      title: BITS Pilani, India
       text: I'm a PhD student at Iowa State University
-   
-
-
-  text: That's all as of now.
-
-clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
 
 contact:
   heading: Contact 
