@@ -5,11 +5,11 @@ intro:
 
 portfolio:
   heading: Projects
-  subheading: Know more
+  subheading: ''
 
 about:
   heading: Gauri Jagatap
-  subheading: About Me
+  subheading: ''
   timeline:
     - image: img/about/iowa-state-cyclones.jpg
       date: 2016-Present
