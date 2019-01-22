@@ -10,4 +10,3 @@ assets_path: 'assets/'
 collections:
   projects: 
 
-markdown: kramdown
