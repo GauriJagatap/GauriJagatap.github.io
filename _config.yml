@@ -5,7 +5,7 @@ author: Gauri Jagatap
 sass:
   style: compressed
 
-assets_path: '' 
+assets_path: 'assets/' 
 
 collections:
   projects: 
