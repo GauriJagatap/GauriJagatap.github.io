@@ -12,13 +12,25 @@ about:
   subheading: Gauri Jagatap
   timeline:
     - image: img/about/1.jpg
+      date: 2016-Present
+      title: Iowa State
+      text: I'm a PhD student at Iowa State University
+  timeline:
+    - image: img/about/1.jpg
       date: 2009-2011
-      title: Our Humble Beginnings
+      title: Intern at MERL
+      text: I'm a PhD student at Iowa State University
+  timeline:
+    - image: img/about/1.jpg
+      date: 2015-2016
+      title: IISc
+      text: I'm a PhD student at Iowa State University
+  timeline:
+    - image: img/about/1.jpg
+      date: 2010-2015
+      title: BITS Pilani
       text: I'm a PhD student at Iowa State University
    
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
 
 
   text: That's all as of now.
