@@ -30,6 +30,7 @@ about:
 
 contact:
   heading: Contact 
+  subheading: gauri AT iastate DOT edu
   
   js-url: '././mail/contact_me.php'
   js-success: 'Your message has been sent. '
