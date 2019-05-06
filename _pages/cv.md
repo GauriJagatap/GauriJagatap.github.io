@@ -44,15 +44,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Detailed Resume
-======
-[Download resume here](http://academicpages.github.io/files/resume.pdf)
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+[Updated Resume](http://gaurijagatap.github.io/files/resume.pdf)
+
