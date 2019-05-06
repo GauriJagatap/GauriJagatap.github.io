@@ -1,9 +1,9 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2017-12-05-structured-phase-retrieval
-excerpt: 'Compressive phase retrieval using signal priors'
-date: 2009-10-01
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2017-12-05
 venue: 'NIPS 2017'
 paperurl: 'http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
