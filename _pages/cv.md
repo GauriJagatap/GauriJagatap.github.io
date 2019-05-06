@@ -44,5 +44,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-[Updated Resume](http://gaurijagatap.github.io/files/resume.pdf)
+[Detailed Resume](http://gaurijagatap.github.io/files/resume.pdf)
 
