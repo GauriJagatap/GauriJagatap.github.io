@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electrical and Electronics Engineering, BITS Pilani Goa, 2015
+* M.Sc. in Physics, BITS Pilani Goa, 2015
+* Ph.D in Electrical Engineering, Iowa State University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015 - Spring 2016: Research Assistant
+  * Indian Institute of Science
+  * Topic: Compressed sensing and application to ultrasound imaging
+  * Supervisor: Professor Chandrasekhar Seelamantula
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Intern
+  * Mitsubishi Electric Research Laboratories
+  * Topic: Multi-modal active sensing
+  * Supervisor: Dr. Petros Boufonos and Dr. Hasan Mansour
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
 
 Publications
 ======
@@ -47,13 +43,16 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Detailed Resume
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Download resume here](http://academicpages.github.io/files/resume.pdf)
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
