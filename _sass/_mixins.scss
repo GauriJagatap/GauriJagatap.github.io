@@ -1,22 +1,53 @@
-// Mixins
-// Background Cover Mixin
-@mixin background-cover {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+/* ==========================================================================
+   MIXINS
+   ========================================================================== */
+
+%tab-focus {
+  /* Default*/
+  outline: thin dotted $warning-color;
+  /* Webkit*/
+  outline: 5px auto $warning-color;
+  outline-offset: -2px;
 }
 
-// Font Mixins
-@mixin serif-font {
-  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/*
+   em function
+   ========================================================================== */
+
+@function em($target, $context: $doc-font-size) {
+  @return ($target / $context) * 1em;
 }
-@mixin script-font {
-  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
-}
-@mixin body-font {
-  font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-@mixin heading-font {
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+/*
+   Bourbon clearfix
+   ========================================================================== */
+
+/*
+  * Provides an easy way to include a clearfix for containing floats.
+  * link http://cssmojo.com/latest_new_clearfix_so_far/
+  *
+  * example scss - Usage
+  *
+  * .element {
+  *   @include clearfix;
+  * }
+  *
+  * example css - CSS Output
+  *
+  * .element::after {
+  *   clear: both;
+  *   content: "";
+  *   display: table;
+  * }
+*/
+
+@mixin clearfix {
+  clear: both;
+
+  &::after {
+    clear: both;
+    content: "";
+    display: table;
+  }
 }
