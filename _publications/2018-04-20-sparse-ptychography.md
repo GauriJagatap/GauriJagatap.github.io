@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-04-20-sparse-ptychography
 excerpt: 'Using sparsity priors for efficient ptychography based image super-resolution.'
 date: 2018-04-20
-venue: 'International Conference on Acoustics, Speech and Signal Processing'
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'http://gaurijagatap.github.io/files/paper3.pdf'
 citation: 'G. Jagatap, Z. Chen, C. Hegde and N. Vaswani (2018). &quot;Sub-diffraction imaging using Fourier ptychography and structured sparsity. &quot; <i>International Conference on Acoustics, Speech and Signal Processing</i>'
 ---

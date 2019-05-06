@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-04-20-lowrank-ptychography
 excerpt: 'Using low-rank priors for efficient ptychography based video super-resolution.'
 date: 2018-04-20
-venue: 'International Conference on Acoustics, Speech and Signal Processing'
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'http://gaurijagatap.github.io/files/paper3.pdf'
 citation: 'G. Jagatap, Z. Chen, S. Nayer, C. Hegde and N. Vaswani (2018). &quot;Low rank Fourier Ptychography. &quot; <i>International Conference on Acoustics, Speech and Signal Processing</i>'
 ---
