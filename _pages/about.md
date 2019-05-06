@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,4 +15,4 @@ redirect_from:
 I also enjoy writing about about some of my pseudo-scientific musings on my blog called <a target="_blank" href='https://thecognitivevortex.wordpress.com/'>The Cognitive Vortex</a>.</p> 
 
 <p> I am an alumnus of the BITS Pilani University (Goa), where I earned dual degrees in Physics (M.Sc.) and Electrical and Electronics Engineering (B.E.) in 2015.</p>
-</div>
+
