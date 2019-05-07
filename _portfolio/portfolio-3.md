@@ -20,7 +20,7 @@ images to be acquired have an underlying structure. For the purpose of this stud
 Some results showcasing the advantage of our sparse phase retrieval algorithm, over conventional approaches: </p>
 
 <div style="text-align: center;">
-<img src="{{ site.url }}/assets/copram.png"/>
+<img src="{{ site.url }}/images/copram.png"/>
 </div>
 
 <font size="+2"> Code </font>
