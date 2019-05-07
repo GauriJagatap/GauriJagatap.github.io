@@ -27,7 +27,7 @@ Some results showcasing the advantage of our sparse phase retrieval algorithm, o
 
 You can find the code <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>here</a>.
 
-<font size="+2"> References </font>
+<font size="+2"> Publications </font>
 
 1. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
 and structured sparsity", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), (Oral Presentation) 2018. [ [Preprint]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://ieeexplore.ieee.org/document/8461302'>Paper</a> / [Talk]({{ site.url }}/assets/ICASSP18talk.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
