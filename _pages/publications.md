@@ -7,16 +7,16 @@ author_profile: true
 
 <font size="+2"> Conference publications: </font>
 
-1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", *to appear*, IEEE International Symposium on Information Theory (ISIT), ([preprint]({{ site.url }}/assets/ISIT19.pdf)), 2019.
+1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", *to appear*, IEEE International Symposium on Information Theory (ISIT), [[Preprint]({{ site.url }}/assets/ISIT19.pdf)], 2019.
 
 
-2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography",  IEEE International Conference on Image Processing (ICIP), ([preprint]({{ site.url }}/assets/ICIP18.pdf)), 2018.
+2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography",  IEEE International Conference on Image Processing (ICIP), [[preprint]({{ site.url }}/assets/ICIP18.pdf)/<a target="_blank" href='https://ieeexplore.ieee.org/document/8451403'>Paper</a>/[Poster]({{ site.url }}/assets/ICIP18poster.pdf)], 2018.
 
 
-3. **G. Jagatap**, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", IEEE International Symposium on Information Theory (ISIT), ([preprint]({{ site.url }}/assets/ISIT18.pdf)), 2018.
+3. **G. Jagatap**, C. Hegde, "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure", IEEE International Symposium on Information Theory (ISIT), [[Preprint]({{ site.url }}/assets/ISIT18.pdf)/<a target="_blank" href='https://ieeexplore.ieee.org/document/8437770'>Paper</a>/[Talk]({{ site.url }}/assets/ISIT18talk.pdf)], 2018.
 
 4. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
-and structured sparsity", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [ Oral Presentation / [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+and structured sparsity", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [ [Oral Presentation]({{ site.url }}/assets/ICASSP18talk.pdf) / [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 5. Z. Chen, **G. Jagatap**, S. Nayer, C. Hegde, N. Vaswani, "Low rank Fourier ptychography", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [[Paper]({{ site.url }}/assets/LRFP.pdf)]
 
@@ -25,11 +25,11 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 <font size="+2"> Journal and preprints: </font>
 
 1. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", IEEE Transactions on Information Theory, 
-(<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv preprint</a>), 2019.
+[<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv Preprint</a>/<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv Paper</a> / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a>], 2019.
 {% comment %}
 {% endcomment %}
 
-2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Paper]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a>.
 
