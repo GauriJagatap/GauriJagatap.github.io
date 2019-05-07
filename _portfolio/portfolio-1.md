@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/pr.png'>"
 collection: portfolio
 ---
 
-<font size="+2"> Abstract </font>
+<font size="+2"> Project description </font>
 
 <p style='text-align: justify;'>
 We consider the problem of recovering an n-dimensional signal, from m magnitude-only measurements. This is a stylized version of the classical phase retrieval problem, and is a fundamental challenge in nano- and bio-imaging systems, astronomical imaging, and speech processing. It is well known that the above problem is ill-posed, and therefore some additional assumptions on the signal and/or the measurements are necessary.</p>
