@@ -8,196 +8,50 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Topic extraction via NMF and Sparse PCA
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+<p style='text-align: justify;'>
+I happened to do two course projects in Spring 2017 on two allied problems: (i) Non-negative matrix factorization and (ii) Sparse PCA. While the problem formulation is different, both of them can be used in the context of extracting topics from a given database of documents.</p>
 
-## Tips and hints
+<p style='text-align: justify;'>
+In the following slides, I study and demonstrate some results in topic extraction and other applications using both of these formulations. </p>
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+1. [Non-negative Matrix Factorization](/assets/NMF.pdf)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+Methods used: <a target="_blank" href='http://ieeexplore.ieee.org/document/6166359/'>Nesterov's Orthogonal Gradient Method</a>, <a target="_blank" href='https://arxiv.org/pdf/1208.1237.pdf'>Separable NMF</a>
 
-## Markdown guide
+2. [Sparse PCA]({{ site.url }}/assets/SPCA.pdf)
 
-### Header three
+Methods used: <a target="_blank" href='http://www.jmlr.org/papers/volume14/yuan13a/yuan13a.pdf'>Truncated Power Method</a>, <a target="_blank" href='https://arxiv.org/abs/1012.0774'>Inverse Power Method</a>.
 
-#### Header four
+## Video segmentation under compressive measurements
 
-##### Header five
+<p style='text-align: justify;'>
+This was my starter kit to the world of data science. I did this project in a largely unguided fashion, but it gave me a good idea about low-rank and sparse problems in signal processing.</p>
 
-###### Header six
+An excerpt:
 
-## Blockquotes
+<p style='text-align: justify;'>
+Video data transmitted by surveillance cameras is generally processed to detect
+moving objects automatically. The video generally consists of a moving object that covers a small fraction of a video frame and majority of the frame is spanned by the background. If each frame is vectorized, and these vectors are concatenated, it is referred to this as the video volume. The video volume can be split into the background and the moving objects (background separation). An intuitive method to separate out the background is by using the fact that the background being stationary, will form the low rank part of the video volume. On the other hand, the moving objects constitute the sparse component. This decomposition is done using a low rank and sparse decomposition of the video volume.</p>
 
-Single line blockquote:
+<p style='text-align: justify;'>
+The speed of this processing however, is slowed down by the abundance of data
+collected, which mostly consists of spells of inactivity. Compressive sensing is a technique used to acquire video data in a different basis, instead of the usual spatial basis, like Fourier or Wavelet, that involves acquiring a small fraction (up to 50% in this paper, lower fractions can be used for larger number of frames or higher resolution data) of the data that would have been acquired in the spatial basis.</p>
 
-> Quotes are cool.
+<p style='text-align: justify;'>
+This method works when the given data is sparse in this basis, which validates the low sampling rate (less than Nyquist). Sparse signal recovery from such compressive measurements is a process of minimizing the nuclear norm or l0 norm of the signal (in this case, video volume) in the transformed basis (which ensures sparsity in the transformed basis). The whole video volume can be recovered from this norm minimization and further background separation techniques can be employed to separate out the moving objects.</p>
 
-## Tables
+<p style='text-align: justify;'>
+However, one can formulate the minimization problem such that the background
+and moving objects are separated out during the recovery. Moreover, one can choose tight wavelet transforms, which have specific properties that help simplify the minimization problem significantly. </p>
 
-### Table 1
+The implementation described is based on <a target="_blank" href='https://arxiv.org/abs/1302.1942'> this paper </a>. 
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+You can find details of my project work [here]({{ site.url }}/assets/vid_seg.pdf). 
 
-### Table 2
+## Classification between natural and CGI images via Residual CNNs using Sensor Pattern Noise
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+This was another class project which involved designing an efficient neural network for classifying between natural images and photo-realistic CGI images. The distinguishing feature between natural images obtained via camera, and computer generated images, is that cameras have sensor pattern noise. This can be used as a major discriminative feature, while training a neural network for classifying between these two classes. Additionally, residual networks have shown improved classification performance as compared to vanila CNNs. The objective of this project was to leverage these two factors to detect if a given image is CGI or not. 
 
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+You can find details of my project work [here]({{ site.url }}/assets/cgi.pdf)
