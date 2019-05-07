@@ -8,6 +8,12 @@ redirect_from:
   - /markdown.html
 ---
 
+## Classification between natural and CGI images via Residual CNNs using Sensor Pattern Noise
+
+This was another class project which involved designing an efficient neural network for classifying between natural images and photo-realistic CGI images. The distinguishing feature between natural images obtained via camera, and computer generated images, is that cameras have sensor pattern noise. This can be used as a major discriminative feature, while training a neural network for classifying between these two classes. Additionally, residual networks have shown improved classification performance as compared to vanila CNNs. The objective of this project was to leverage these two factors to detect if a given image is CGI or not. 
+
+You can find details of my project work [here]({{ site.url }}/assets/CGI.pdf)
+
 ## Topic extraction via NMF and Sparse PCA
 
 <p style='text-align: justify;'>
@@ -31,25 +37,16 @@ An excerpt:
 
 <p style='text-align: justify;'>
 Video data transmitted by surveillance cameras is generally processed to detect
-moving objects automatically. The video generally consists of a moving object that covers a small fraction of a video frame and majority of the frame is spanned by the background. If each frame is vectorized, and these vectors are concatenated, it is referred to this as the video volume. The video volume can be split into the background and the moving objects (background separation). An intuitive method to separate out the background is by using the fact that the background being stationary, will form the low rank part of the video volume. On the other hand, the moving objects constitute the sparse component. This decomposition is done using a low rank and sparse decomposition of the video volume.</p>
+moving objects automatically. The video generally consists of a moving object that covers a small fraction of a video frame and majority of the frame is spanned by the background. An intuitive method to separate out the background is by using the fact that the background is stationary, and forms the low rank part of the video volume. On the other hand, the moving objects constitute the sparse component. This decomposition is done using a low rank and sparse decomposition of the video volume.</p>
 
 <p style='text-align: justify;'>
-The speed of this processing however, is slowed down by the abundance of data
-collected, which mostly consists of spells of inactivity. Compressive sensing is a technique used to acquire video data in a different basis, instead of the usual spatial basis, like Fourier or Wavelet, that involves acquiring a small fraction (up to 50% in this paper, lower fractions can be used for larger number of frames or higher resolution data) of the data that would have been acquired in the spatial basis.</p>
+The speed of this processing however, is slowed down by the abundance of data collected, which mostly consists of spells of inactivity. Compressive sensing is a technique used to acquire video data in a different basis, instead of the usual spatial basis, like Fourier or Wavelet, that involves acquiring a small fraction (up to 50% in this project; lower fractions can be used for larger number of frames or higher resolution data) of the data that would have been acquired in the spatial basis.</p>
 
 <p style='text-align: justify;'>
-This method works when the given data is sparse in this basis, which validates the low sampling rate (less than Nyquist). Sparse signal recovery from such compressive measurements is a process of minimizing the nuclear norm or l0 norm of the signal (in this case, video volume) in the transformed basis (which ensures sparsity in the transformed basis). The whole video volume can be recovered from this norm minimization and further background separation techniques can be employed to separate out the moving objects.</p>
-
-<p style='text-align: justify;'>
-However, one can formulate the minimization problem such that the background
-and moving objects are separated out during the recovery. Moreover, one can choose tight wavelet transforms, which have specific properties that help simplify the minimization problem significantly. </p>
+Compressive sensing works when the video data has a low rank and sparse decomposition in some basis, which validates the low sampling rate (less than Nyquist). </p>
 
 The implementation described is based on <a target="_blank" href='https://arxiv.org/abs/1302.1942'> this paper </a>. 
 
 You can find details of my project work [here]({{ site.url }}/assets/vid_seg.pdf). 
 
-## Classification between natural and CGI images via Residual CNNs using Sensor Pattern Noise
 
-This was another class project which involved designing an efficient neural network for classifying between natural images and photo-realistic CGI images. The distinguishing feature between natural images obtained via camera, and computer generated images, is that cameras have sensor pattern noise. This can be used as a major discriminative feature, while training a neural network for classifying between these two classes. Additionally, residual networks have shown improved classification performance as compared to vanila CNNs. The objective of this project was to leverage these two factors to detect if a given image is CGI or not. 
-
-You can find details of my project work [here]({{ site.url }}/assets/CGI.pdf)
