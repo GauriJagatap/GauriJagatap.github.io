@@ -25,7 +25,7 @@ Work experience
 * Summer 2018: Research Intern
   * Mitsubishi Electric Research Laboratories
   * Topic: Multi-modal active sensing
-  * Supervisor: Dr. Petros Boufounos and Dr. Hasan Mansour
+  * Supervisor: Dr. Petros Boufounos and Dr. Hassan Mansour
   
 Skills
 ======
