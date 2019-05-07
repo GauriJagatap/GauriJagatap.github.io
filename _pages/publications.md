@@ -29,7 +29,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 {% comment %}
 {% endcomment %}
 
-2. G. Jagatap, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a>.
 
