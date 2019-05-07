@@ -34,9 +34,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[List of publications](http://gaurijagatap.github.io/publications)  
   
 Talks
 ======
