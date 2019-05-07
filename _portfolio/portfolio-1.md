@@ -1,6 +1,6 @@
 ---
 title: "Compressive phase retrieval under image priors"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/pr.png'>"
 collection: portfolio
 ---
 

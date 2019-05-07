@@ -1,6 +1,6 @@
 ---
 title: "Provable algorithms for machine learning"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/resnet.png'>"
 collection: portfolio
 ---
 
