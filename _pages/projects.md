@@ -1,9 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /projects/
 title: "Additional Projects"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /markdown/
+  - /md
   - /markdown.html
 ---
 
