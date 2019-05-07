@@ -20,23 +20,23 @@ images to be acquired have an underlying structure. For the purpose of this stud
 Some results showcasing the advantage of our sparse phase retrieval algorithm, over conventional approaches: </p>
 
 <div style="text-align: center;">
-<img src="{{ site.url }}/assets/img/portfolio/copram.png"/>
+<img src="{{ site.url }}/assets/copram.png"/>
 </div>
 
-You can find a more detailed report on this project [here]({{ site.url }}/assets/FP_report.pdf).
+<font size="+2"> Code </font>
 
 You can find the code <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>here</a>.
 
 <font size="+2"> References </font>
 
 1. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sub-diffraction imaging using Fourier ptychography
-and structured sparsity", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [ [Oral Presentation]({{ site.url }}/assets/slides-icassp18.pdf) / [Paper]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+and structured sparsity", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), (Oral Presentation) 2018. [ [Preprint]({{ site.url }}/assets/SFP.pdf) / <a target="_blank" href='https://ieeexplore.ieee.org/document/8461302'>Paper</a> / [Talk]({{ site.url }}/assets/ICASSP18talk.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
-2. Z. Chen, **G. Jagatap**, S. Nayer, C. Hegde, N. Vaswani, "Low-rank Fourier ptychography", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018.
+2. Z. Chen, **G. Jagatap**, S. Nayer, C. Hegde, N. Vaswani, "Low rank Fourier ptychography", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018. [[Preprint]({{ site.url }}/assets/LRFP.pdf) / <a target="_blank" href='https://ieeexplore.ieee.org/document/8462480'>Paper</a> / [Poster]({{ site.url }}/assets/ICASSP18poster.pdf)]
 
-3. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model-corrected Low-rank ptychography", IEEE International Conference on Image Processing (ICIP), 2018. 
+3. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography",  IEEE International Conference on Image Processing (ICIP), [[Preprint]({{ site.url }}/assets/ICIP18.pdf) / <a target="_blank" href='https://ieeexplore.ieee.org/document/8451403'>Paper</a> / [Poster]({{ site.url }}/assets/ICIP18poster.pdf)], 2018.
 
-4. **G. Jagatap**, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Adv. in Neural Information Processing Systems, 2017. [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
 
+4. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 New to sub-diffractive imaging? Find some quick info on this <a target="_blank" href='https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing'>cheat sheet.</a>
