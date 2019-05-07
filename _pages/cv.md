@@ -42,5 +42,5 @@ Research
 * [Machine learning theory](https://gaurijagatap.github.io/portfolio/portfolio-2/)
 
 
-[Detailed Resume](http://gaurijagatap.github.io/files/resume.pdf)
+[Detailed Resume](http://gaurijagatap.github.io/assets/resume.pdf)
 
