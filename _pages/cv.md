@@ -25,7 +25,7 @@ Work experience
 * Summer 2018: Research Intern
   * Mitsubishi Electric Research Laboratories
   * Topic: Multi-modal active sensing
-  * Supervisor: Dr. Petros Boufonos and Dr. Hasan Mansour
+  * Supervisor: Dr. Petros Boufounos and Dr. Hasan Mansour
   
 Skills
 ======
@@ -40,7 +40,7 @@ Research
 ======
 * [Compressive phase retrieval](https://gaurijagatap.github.io/portfolio/portfolio-1/)
 * [Machine learning theory](https://gaurijagatap.github.io/portfolio/portfolio-2/)
-
+* [Super-resolution Fourier ptychography](https://gaurijagatap.github.io/portfolio/portfolio-3/)
 
 [Detailed Resume](http://gaurijagatap.github.io/assets/resume.pdf)
 
