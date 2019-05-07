@@ -10,7 +10,7 @@ redirect_from:
 
 ## Classification between natural and CGI images via Residual CNNs using Sensor Pattern Noise
 
-This was another class project which involved designing an efficient neural network for classifying between natural images and photo-realistic CGI images. The distinguishing feature between natural images obtained via camera, and computer generated images, is that cameras have sensor pattern noise. This can be used as a major discriminative feature, while training a neural network for classifying between these two classes. Additionally, residual networks have shown improved classification performance as compared to vanila CNNs. The objective of this project was to leverage these two factors to detect if a given image is CGI or not. 
+This was a course project from a course on Digital Image Forensics in Spring 2019 which involved designing an efficient neural network for classifying between natural images and photo-realistic CGI images. The distinguishing feature between natural images obtained via camera, and computer generated images, is that cameras have sensor pattern noise. This can be used as a major discriminative feature, while training a neural network for classifying between these two classes. Additionally, residual networks have shown improved classification performance as compared to vanila CNNs. The objective of this project was to leverage these two factors to detect if a given image is CGI or not. 
 
 You can find details of my project work [here]({{ site.url }}/assets/CGI.pdf)
 
