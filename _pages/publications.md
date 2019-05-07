@@ -25,7 +25,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 <font size="+2"> Journal and preprints: </font>
 
 1. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", IEEE Transactions on Information Theory, 
-[<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv Preprint</a>/<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv Paper</a> / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a>], 2019.
+[<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv Preprint</a>/ <a target="_blank" href='https://ieeexplore.ieee.org/abstract/document/8660586'>Paper</a> / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a>], 2019.
 {% comment %}
 {% endcomment %}
 
