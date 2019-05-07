@@ -36,11 +36,11 @@ Publications
 ======
 [List of publications](http://gaurijagatap.github.io/publications)  
   
-Talks
+Research
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* [Compressive phase retrieval](https://gaurijagatap.github.io/portfolio/portfolio-1/)
+* [Machine learning theory](https://gaurijagatap.github.io/portfolio/portfolio-2/)
+
 
 [Detailed Resume](http://gaurijagatap.github.io/files/resume.pdf)
 
