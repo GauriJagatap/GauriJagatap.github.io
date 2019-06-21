@@ -22,9 +22,11 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 6. **G. Jagatap**, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Advances in Neural Information Processing Systems (NIPS), 2017. (Acceptance rate: 20.93%) [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
 
-<font size="+2"> Journal and preprints: </font>
+<font size="+2"> Preprints: </font>
 
 2. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", *under review*, 2019. [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> ]
+
+<font size="+2"> Journal articles: </font>
 
 2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sample efficient Fourier ptychography on structured data", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
