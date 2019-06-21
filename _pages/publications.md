@@ -24,12 +24,16 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 <font size="+2"> Journal and preprints: </font>
 
-1. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", IEEE Transactions on Information Theory, 2019. 
+2. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", *under review*, 2019. [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> ]
+
+2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sample efficient Fourier ptychography on structured data", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+
+3. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", IEEE Transactions on Information Theory, 2019. 
 [<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv Preprint</a>/ <a target="_blank" href='https://ieeexplore.ieee.org/abstract/document/8660586'>Paper</a> / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a>]
 {% comment %}
 {% endcomment %}
 
-2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a>.
 
