@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Gauri Jagatap"
   avatar           : "profile.png"
-  bio              : "PhD Student at Iowa State University | Machine learning and signal processing"
+  bio              : "PhD Student | Machine learning and signal processing"
   location         : "Ames, Iowa, USA"
-  employer         :
+  employer         : "Iowa State University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en"
   email            :
