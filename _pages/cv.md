@@ -38,9 +38,11 @@ Publications
   
 Research
 ======
-* [Compressive phase retrieval](https://gaurijagatap.github.io/portfolio/portfolio-1/)
+* [Inverse imaging with untrained neural network priors] (https://gaurijagatap.github.io/portfolio/portfolio-1/)
 * [Machine learning theory](https://gaurijagatap.github.io/portfolio/portfolio-2/)
-* [Super-resolution Fourier ptychography](https://gaurijagatap.github.io/portfolio/portfolio-3/)
+* [Compressive phase retrieval](https://gaurijagatap.github.io/portfolio/portfolio-3/)
+* [Super-resolution Fourier ptychography](https://gaurijagatap.github.io/portfolio/portfolio-4/)
+
 
 [Detailed Resume](http://gaurijagatap.github.io/assets/resume.pdf)
 
