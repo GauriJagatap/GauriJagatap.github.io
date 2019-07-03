@@ -39,6 +39,8 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 
 
-You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a>.
+You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
+
+
 
 
