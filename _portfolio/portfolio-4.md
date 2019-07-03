@@ -1,6 +1,6 @@
 ---
 title: "Inverse Imaging with Deep Untrained Neural Network Priors"
-excerpt: "<br/><img src='/images/resnet.png'>"
+excerpt: "<br/><img src='/images/NetPGD.png'>"
 collection: portfolio
 ---
 
