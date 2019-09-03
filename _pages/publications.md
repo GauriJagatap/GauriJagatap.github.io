@@ -5,13 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font size="+2"> Preprints: </font>
+{% comment %}
 
-2. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", *under review*, 2019. [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> ]
+<font size="+2"> Preprints: </font>
+{% endcomment %}
 
 <font size="+2"> Conference publications: </font>
 
-1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", *to appear*, IEEE International Symposium on Information Theory (ISIT), 2019. [[Preprint]({{ site.url }}/assets/ISIT19.pdf) / [Talk]({{ site.url }}/assets/ISIT19talk.pdf)]
+2. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", *to appear*, Advances in Neural Information Processing Systems (NeurIPS), 2019. (Acceptance rate: 21.18%) [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> ]
+
+1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", IEEE International Symposium on Information Theory (ISIT), 2019. [[Preprint]({{ site.url }}/assets/ISIT19.pdf) / [Talk]({{ site.url }}/assets/ISIT19talk.pdf)]
 
 
 2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography",  IEEE International Conference on Image Processing (ICIP), 2018. [[Preprint]({{ site.url }}/assets/ICIP18.pdf) / <a target="_blank" href='https://ieeexplore.ieee.org/document/8451403'>Paper</a> / [Poster]({{ site.url }}/assets/ICIP18poster.pdf)]
