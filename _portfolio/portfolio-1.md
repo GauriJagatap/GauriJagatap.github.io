@@ -14,5 +14,5 @@ You can find all codes related to the paper on my <a target="_blank" href='https
 
 <font size="+2"> Preprints: </font>
 
-1. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", 2019. [<a target="_blank" href='https://arxiv.org/abs/1906.08763'> Preprint </a>]
+1. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", Advances in Neural Information Processing Systems, 2019. [<a target="_blank" href='https://arxiv.org/abs/1906.08763'> Preprint </a> | <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'> Code </a>]
 
