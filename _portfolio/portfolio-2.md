@@ -17,5 +17,5 @@ You can find all codes related to the paper on my <a target="_blank" href='https
 
 <font size="+2"> Publications </font>
 
-1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", *to appear*, IEEE International Symposium on Information Theory (ISIT), 2019. [[Preprint]({{ site.url }}/assets/ISIT19.pdf)]
+1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", IEEE International Symposium on Information Theory (ISIT), 2019. [[Preprint]({{ site.url }}/assets/ISIT19.pdf)]
 

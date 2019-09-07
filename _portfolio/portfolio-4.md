@@ -31,6 +31,6 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 3. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography",  IEEE International Conference on Image Processing (ICIP), [[Preprint]({{ site.url }}/assets/ICIP18.pdf) / <a target="_blank" href='https://ieeexplore.ieee.org/document/8451403'>Paper</a> / [Poster]({{ site.url }}/assets/ICIP18poster.pdf)], 2018.
 
 
-4. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models", *under review*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+4. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Efficient Fourier ptychography on structured data: low-rank and sparse models",  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 New to sub-diffractive imaging? Find some quick info on this <a target="_blank" href='https://docs.google.com/document/d/1Lr3UwDjWWkiqotms7-4pSN835EvrSuKECAPUtXfWmEI/edit?usp=sharing'>cheat sheet.</a>
