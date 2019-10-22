@@ -42,8 +42,9 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 {% comment %}
 {% endcomment %}
 
+<font size="+2"> Under review: </font>
 
-
+1. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", 2019. [[Preprint]({{ site.url }}/assets/hdrimage.pdf)]
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
 
 
