@@ -12,7 +12,7 @@ Deep neural networks as image priors have been recently introduced for problems 
 
 You can find all codes related to the paper on my <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'> GitHub page</a>.
 
-<font size="+2"> Preprints: </font>
+<font size="+2"> Papers: </font>
 
 1. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", Advances in Neural Information Processing Systems, 2019. (Acceptance rate: 21.18%)  [<a target="_blank" href='https://arxiv.org/abs/1906.08763'> Preprint </a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'> Code </a>]
 
