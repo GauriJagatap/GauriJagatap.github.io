@@ -14,7 +14,7 @@ author_profile: true
 
 2. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", *to appear*, Advances in Neural Information Processing Systems (NeurIPS), 2019. (Acceptance rate: 21.18%) [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> / [Slides]({{ site.url }}/assets/NeurIPS19slides.pdf)]
 
-2. **G. Jagatap**, C. Hegde, "Phase Retrieval using Untrained Neural Network Priors", NeurIPS Workshop on Solving Inverse Problems with Deep Learning, 2019. [ <a target="_blank" href= 'https://openreview.net/forum?id=ryl7QwPEIr'>Paper</a> ]
+2. **G. Jagatap**, C. Hegde, "Phase Retrieval using Untrained Neural Network Priors", NeurIPS Workshop on Solving Inverse Problems with Deep Learning, 2019. [ <a target="_blank" href= 'https://openreview.net/forum?id=r1l9n725IH'>Paper</a> ]
 
 1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", IEEE International Symposium on Information Theory (ISIT), 2019. [[Preprint]({{ site.url }}/assets/ISIT19.pdf) / [Talk]({{ site.url }}/assets/ISIT19talk.pdf)]
 
