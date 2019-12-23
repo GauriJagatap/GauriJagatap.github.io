@@ -13,8 +13,8 @@ Education
 ======
 * B.E. in Electrical and Electronics Engineering, BITS Pilani Goa, 2015
 * M.Sc. in Physics, BITS Pilani Goa, 2015
-* M.S. in Electrical Engineering, Iowa State University, 2019 (expected)
-* Ph.D in Electrical Engineering, Iowa State University, 2021 (expected)
+* M.S. in Electrical Engineering, Iowa State University, 2019 
+* Ph.D in Electrical Engineering, New York University, 2021 (expected)
 
 Work experience
 ======
