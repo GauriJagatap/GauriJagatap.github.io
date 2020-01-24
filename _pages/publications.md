@@ -12,6 +12,8 @@ author_profile: true
 
 <font size="+2"> Conference publications: </font>
 
+1. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020. [[Preprint]({{ site.url }}/assets/hdrimage.pdf)]
+
 2. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", *to appear*, Advances in Neural Information Processing Systems (NeurIPS), 2019. (Acceptance rate: 21.18%) [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> / [Slides]({{ site.url }}/assets/NeurIPS19slides.pdf) / [Poster]({{ site.url }}/assets/NeurIPS19poster.pdf)]
 
 2. **G. Jagatap**, C. Hegde, "Phase Retrieval using Untrained Neural Network Priors", NeurIPS Workshop on Solving Inverse Problems with Deep Neural Networks, 2019. [ <a target="_blank" href= 'https://openreview.net/forum?id=r1l9n725IH'>Paper</a> ]
@@ -42,9 +44,10 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 {% comment %}
 {% endcomment %}
 
+{% comment %}
 <font size="+2"> Under review: </font>
 
-1. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", 2019. [[Preprint]({{ site.url }}/assets/hdrimage.pdf)]
+{% endcomment %}
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
 

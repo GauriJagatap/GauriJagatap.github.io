@@ -18,4 +18,4 @@ You can find all codes related to the paper on my <a target="_blank" href='https
 
 2. **G. Jagatap**, C. Hegde, "Phase Retrieval using Untrained Neural Network Priors", NeurIPS Workshop on Solving Inverse Problems with Deep Learning, 2019. [ <a target="_blank" href= 'https://openreview.net/forum?id=ryl7QwPEIr'>Paper</a> ]
 
-3. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", 2019. [[Preprint]({{ site.url }}/assets/hdrimage.pdf)]
+3. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", IEEE International Conference on Speech, Acoustics and Signal Processing, 2020. [[Preprint]({{ site.url }}/assets/hdrimage.pdf)]
