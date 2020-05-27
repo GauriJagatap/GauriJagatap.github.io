@@ -27,6 +27,11 @@ Work experience
   * Mitsubishi Electric Research Laboratories
   * Topic: Multi-modal active sensing
   * Supervisor: Dr. Petros Boufounos and Dr. Hassan Mansour
+
+* Summer 2020: Data Science Research Intern
+  * Adobe Research
+  * Topic: Image compression
+  * Supervisor: Dr. Vishy Swaminathan
   
 Skills
 ======
