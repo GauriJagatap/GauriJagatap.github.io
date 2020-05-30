@@ -14,7 +14,7 @@ Education
 * B.E. in Electrical and Electronics Engineering, BITS Pilani Goa, 2015
 * M.Sc. in Physics, BITS Pilani Goa, 2015
 * M.S. in Electrical Engineering, Iowa State University, 2019 
-* Ph.D in Electrical Engineering, New York University, 2021 (expected)
+* Ph.D. in Electrical Engineering, New York University, 2021 (expected)
 
 Work experience
 ======
@@ -44,6 +44,8 @@ Publications
   
 Research
 ======
+* Adversarial training of deep networks
+* Inverse imaging with generative priors
 * [Inverse imaging with untrained neural network priors](https://gaurijagatap.github.io/portfolio/portfolio-1/)
 * [Machine learning theory](https://gaurijagatap.github.io/portfolio/portfolio-2/)
 * [Compressive phase retrieval](https://gaurijagatap.github.io/portfolio/portfolio-3/)
