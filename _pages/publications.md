@@ -46,7 +46,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 <font size="+2"> Under review: </font>
 
-1. **G. Jagatap**, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, 2020. [[coming soon]]
+1. **G. Jagatap**, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, 2020. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Paper </a>]
 
 2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, 2020.
 
