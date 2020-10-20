@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a graduate student in the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at the Electrical and Computer Engineering Department of New York University. Prior to this, I was a graduate student at Iowa State Univeristy (ISU), and I have been working with <a target="_blank" href='http://home.engineering.iastate.edu/~chinmay/'>Dr. Chinmay Hegde</a> since August 2016. </p>
+<p>I am a graduate student in the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at the Electrical and Computer Engineering Department of New York University. Prior to this, I was a graduate student at Iowa State Univeristy (ISU), and I have been working with <a target="_blank" href='https://chinmayhegde.github.io/'>Dr. Chinmay Hegde</a> since August 2016. </p>
 
 <p>I have also had the pleasure of interning as a Data Science Research Intern at Adobe Research, during Summer 2020, where I was being mentored by <a target="_blank" href='https://research.adobe.com/person/vishy-swaminathan/'>Dr. Vishy Swaminathan</a>. Prior to this, I was a summer research intern at MERL in 2018.</p>
 
