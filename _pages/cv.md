@@ -52,5 +52,5 @@ Research
 * [Super-resolution Fourier ptychography](https://gaurijagatap.github.io/portfolio/portfolio-4/)
 
 
-[Detailed Resume](http://gaurijagatap.github.io/assets/resume.pdf)
+[Detailed Resume](http://gaurijagatap.github.io/assets/resumefull.pdf)
 
