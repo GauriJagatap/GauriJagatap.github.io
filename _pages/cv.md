@@ -22,8 +22,8 @@ Work experience
 * Summer 2021: Research Intern
   * Google Research
   * Topic: Machine learning
-  * Supervisor: Dr. Mikhal Lukasik
-  * 
+  * Supervisor: Dr. Michal Lukasik
+  
 * Summer 2020: Data Science Research Intern
   * Adobe Research
   * Topic: Image compression
