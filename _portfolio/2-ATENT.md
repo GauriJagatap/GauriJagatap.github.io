@@ -11,10 +11,9 @@ In this paper we propose a new family of algorithms, ATENT, for training adversa
 
 ![image](/images/adv.png)
 
-<font size="+2"> Code </font>
-
-Coming soon.
+<font size="+2"> Code </font> 
+[<a target="_blank" href='https://github.com/GauriJagatap/StochAT'> Github repository </a>]
 
 <font size="+2"> Publications </font>
 
-1. **G. Jagatap**, A. Joshi, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, ICML Workshop on Adversarial Machine Learning, 2021. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Preprint </a>]
+1. **G. Jagatap**, A. Joshi, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, ICML Workshop on Adversarial Machine Learning, 2021 and Frontiers on Artificial Intelligence, 2021. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Preprint </a>]
