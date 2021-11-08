@@ -48,7 +48,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 <font size="+2"> Under review: </font>
 
-1. A. Joshi, **G. Jagatap**, and C. Hegde, “Adversarially robust learning via entropic regularization”, 2020. [<a target="_blank" href='https://arxiv.org/abs/2110.04337'> Adversarial Token Attacks on Vision Transformers </a>]
+1. A. Joshi, **G. Jagatap**, and C. Hegde, “Adversarial Token Attacks on Vision Transformers”, 2021. [<a target="_blank" href='https://arxiv.org/abs/2110.04337'> Preprint </a>]
 
 2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, 2020.
 
