@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a graduate student in the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at the Electrical and Computer Engineering Department of New York University. Prior to this, I was a graduate student at Iowa State Univeristy (ISU), and I have been working with <a target="_blank" href='https://chinmayhegde.github.io/'>Dr. Chinmay Hegde</a> since August 2016. </p>
+<p>I recently graduated with my PhD from the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at the Electrical and Computer Engineering Department of New York University under the supervision of my advisor <a target="_blank" href='https://chinmayhegde.github.io/'>Dr. Chinmay Hegde</a>. </p>
 
-<p>I am currently on the job market looking for full time positions. Prior to this I have had the pleasure of interning at Google in 2021, Adobe in 2020 and MERL in 2018.</p>
+<p>I will be joining Dolby Laboratories as a Deep Learning Researcher in the Applied AI team in January 2021. Prior to this I have interned at Google in 2021, Adobe in 2020 and MERL in 2018.</p>
 
-<p> My interests lie in the intersection of signal processing and machine learning. During the course of my PhD so far, I have worked on several problems in inverse imaging, such as compressed sensing, phase retrieval, HDR imaging and regression problems in machine learning. I have recently been working on solving inverse problems using deep neural networks as priors. Parallely, I have been working on developing algorithms to train adversarially robust neural network models. 
+<p> My interests lie in the intersection of signal processing and machine learning. During the course of my PhD, I worked on several problems in inverse imaging, such as compressed sensing, phase retrieval, HDR imaging using deep neural networks. I have also worked on developing algorithms to train adversarially robust neural network models. 
 
 <p> I am an alumnus of the BITS Pilani Goa, where I earned dual degrees in Physics (M.Sc.) and Electrical and Electronics Engineering (B.E.) in 2015.</p>
 
