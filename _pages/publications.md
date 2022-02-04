@@ -13,7 +13,7 @@ author_profile: true
 <font size="+2"> Conference publications: </font>
 
 2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
-3. 
+
 4. **G. Jagatap**, A. Joshi, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, ICML Workshop on Adversarial Machine Learning, 2021. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Preprint </a>]
 
 2. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020. [[Preprint]({{ site.url }}/assets/hdrimage.pdf) / [Paper](https://ieeexplore.ieee.org/abstract/document/9054218 ) / [Talk]({{ site.url }}/assets/hdr_dip_icassp_4320.pdf)]
