@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Gauri Jagatap"
   avatar           : "profile.png"
-  bio              : "PhD Student | Machine learning and signal processing"
-  location         : "New York, NY, USA"
-  employer         : "New York University"
+  bio              : "PhD, New York University | Deep learning, computer vision, signal processing"
+  location         : "San Francisco, CA, USA"
+  employer         : "Dolby Laboratories"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en"
   email            :
