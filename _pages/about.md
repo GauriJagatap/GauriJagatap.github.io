@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<p>I recently joined Dolby Laboratories as a Deep Learning Researcher in the <a target="_blank" href='https://dolby.io/audio-research/'>Applied AI team</a>   in January 2022. Prior to this I graduated with my PhD from the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at New York University under the supervision of <a target="_blank" href='https://chinmayhegde.github.io/'>Dr. Chinmay Hegde</a>, in December 2021. I have also interned at Google in 2021, Adobe in 2020 and MERL in 2018. I am an alumnus of Iowa State University and BITS Pilani, Goa, where I earned degrees in Electrical Engineering and Physics.</p>
+<p>I am a researcher in the as a part of the <a target="_blank" href='https://dolby.io/audio-research/'>Applied AI team</a> in the Advanced Tehnology Group at Dolby Laboratories since January 2022. Prior to this I graduated with my PhD from the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at New York University under the supervision of <a target="_blank" href='https://chinmayhegde.github.io/'>Dr. Chinmay Hegde</a>, in December 2021. I have also interned at Google in 2021, Adobe in 2020 and MERL in 2018. I am an alumnus of Iowa State University and BITS Pilani, Goa, where I earned degrees in Electrical Engineering and Physics.</p>
 
-<p> My interests lie in the intersection of signal processing, computer vision and deep learning. During the course of my PhD, I worked on several problems in inverse imaging, such as compressed sensing, phase retrieval and HDR imaging using deep neural networks. More recently I have been analyzing unrolled gradient based networks for inverse imaging problems. On the computer vision side, I have worked on developing algorithms to train adversarially robust neural networks. Concurrently I have also looked at new attack models to inspect vulnerabilities of vision based transformer architectures. </p>
+<p> My interests lie in the intersection of signal processing, computer vision and deep learning. At Dolby I have primarily worked at enhancing video applications through deep learning approaches.</p>
+  
+<p> During the course of my PhD, I worked on several problems in inverse imaging, such as compressed sensing, phase retrieval and HDR imaging using deep neural networks. On the computer vision side, I have worked on developing algorithms to train adversarially robust neural networks. Concurrently I have also looked at new attack models to inspect vulnerabilities of vision based transformer architectures. </p>
 
-<p> Outside of the topics that I explored during my PhD, I am also broadly interested in neural network model compression, designing deep learning based image and video compression models, generative networks and self-supervised learning. </p>
+<p> Outside of the topics that I explored during my PhD, I am also broadly interested in multi-modal learning, generative networks and self-supervised learning. </p>
 
 ## Updates:
 May 2022: Our [paper](https://arxiv.org/abs/2110.04337) on Token Attacks on Vision Transformers has been selected for spotlight presentation at CVPR 2022 Workshop on Transformers for Vision.
