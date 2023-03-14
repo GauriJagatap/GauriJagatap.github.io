@@ -8,6 +8,8 @@ author_profile: true
 {% comment %}
 
 <font size="+2"> Preprints: </font>
+
+Coming soon.
 {% endcomment %}
 
 <font size="+2"> Conference publications: </font>
@@ -40,8 +42,9 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 
 <font size="+2"> Journal articles: </font>
+2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
 
-2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sample efficient Fourier ptychography on structured data", *to appear*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
+4. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sample efficient Fourier ptychography on structured data", *to appear*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
 3. **G. Jagatap**, C. Hegde, "Sample efficient algorithms for recovering structured signals from magnitude-only measurements", IEEE Transactions on Information Theory, 2019. 
 [<a target="_blank" href='https://arxiv.org/abs/1705.06412'>arXiv Preprint</a>/ <a target="_blank" href='https://ieeexplore.ieee.org/abstract/document/8660586'>Paper</a> / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a>]
@@ -50,13 +53,16 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 {% comment %}
 {% endcomment %}
 
+<font size="+2"> User studies: </font>
+
+1. P. Mehta, **G. Jagatap**, K. Gallagher, B. Timmerman, P. Deb, S. Garg, R. Greenstadt and B. Dolan-Gavitt, "Can Deepfakes be created on a whim?", International Workshop on Cyber Social Threats (CySoc), ACM Web Conference 2023.
+
 <font size="+2"> Under review: </font>
 
-1. A. Joshi, **G. Jagatap**, and C. Hegde, “Adversarial Token Attacks on Vision Transformers”, 2021. [<a target="_blank" href='https://arxiv.org/abs/2110.04337'> Preprint </a>]
-
-2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, 2020.
+Coming soon.
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
+
 
 
 
