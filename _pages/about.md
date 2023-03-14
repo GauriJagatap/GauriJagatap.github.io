@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a researcher in the as a part of the <a target="_blank" href='https://dolby.io/audio-research/'>Applied AI team</a> in the Advanced Tehnology Group at Dolby Laboratories since January 2022. Prior to this I graduated with my PhD from the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at New York University under the supervision of <a target="_blank" href='https://chinmayhegde.github.io/'>Dr. Chinmay Hegde</a>, in December 2021. I have also interned at Google in 2021, Adobe in 2020 and MERL in 2018. I am an alumnus of Iowa State University and BITS Pilani, Goa, where I earned degrees in Electrical Engineering and Physics.</p>
+<p>I am a researcher in the <a target="_blank" href='https://dolby.io/audio-research/'>Applied AI team</a> as a part of the Advanced Tehnology Group at Dolby Laboratories in San Franscisco since January 2022. Prior to this I graduated with my PhD from the <a target="_blank" href='http://dice.ece.iastate.edu/'>DICE Lab</a> at New York University under the supervision of <a target="_blank" href='https://chinmayhegde.github.io/'>Dr. Chinmay Hegde</a>, in December 2021. I have also interned at Google in 2021, Adobe in 2020 and MERL in 2018. I am an alumnus of Iowa State University and BITS Pilani, Goa, where I earned degrees in Electrical Engineering and Physics.</p>
 
 <p> My interests lie in the intersection of signal processing, computer vision and deep learning. At Dolby I have primarily worked at enhancing video applications through deep learning approaches.</p>
   
