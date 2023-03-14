@@ -14,7 +14,7 @@ Coming soon.
 
 <font size="+2"> Conference publications: </font>
 
-2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
+2. T. Nguyen, **G. Jagatap** and C. Hegde, “Inverse imaging with generative priors via Langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
 
 4. **G. Jagatap**, A. Joshi, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, ICML Workshop on Adversarial Machine Learning, 2021. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Preprint </a>]
 
@@ -42,7 +42,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 
 <font size="+2"> Journal articles: </font>
-2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
+2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, IEEE Transactions on Information Theory, 2022.
 
 4. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Sample efficient Fourier ptychography on structured data", *to appear*,  IEEE Transactions on Computational Imaging, 2019. [ [Preprint]({{ site.url }}/assets/TCI19.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/copram-for-ptycho'>Code</a> ]
 
