@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electrical Engineering, New York University, 2021 (expected)
+* Ph.D. in Electrical Engineering, New York University, 2022
 * M.S. in Electrical Engineering, Iowa State University, 2019 
 * B.E. in Electrical and Electronics Engineering, BITS Pilani Goa, 2015
 * M.Sc. in Physics, BITS Pilani Goa, 2015
@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* 2022 - Present: Deep Learning Researcher
+  * Dolby Laboratories
+  * Applied AI, Advanced Technology Group
 * Summer 2021: Research Intern
   * Google Research
   * Topic: Machine learning
@@ -38,9 +41,6 @@ Work experience
   * Indian Institute of Science
   * Topic: Compressed sensing and application to ultrasound imaging
   * Supervisor: Professor Chandrasekhar Seelamantula
-
-
-
   
 Skills
 ======
@@ -53,6 +53,7 @@ Publications
   
 Research
 ======
+* Multimodal video highlight detection
 * Adversarial training of deep networks
 * Inverse imaging with generative priors
 * [Inverse imaging with untrained neural network priors](https://gaurijagatap.github.io/portfolio/portfolio-1/)
