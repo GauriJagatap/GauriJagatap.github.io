@@ -28,9 +28,3 @@ May 2022: Extended version of our [paper](https://arxiv.org/abs/2102.12643) on I
 March 2022: I will be giving a [talk](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73003) at the SIAM conference on Imaging Science on March 23.
 
 February 2022: Our [paper](https://arxiv.org/abs/2102.12643) on Inverse Imaging using Generative Priors has been accepted to ICASSP 2022!
-
-January 2022: We have [openings](https://careers.dolby.com/job/San-Francisco-Deep-Learning-Researcher-CA-94101/822236600/) in our team, apply here!
-
-January 2022: I moved to the San Francisco Bay Area. Feel free to reach out to me if you're in the area!
-
-
