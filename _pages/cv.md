@@ -16,7 +16,6 @@ Education
 * B.E. in Electrical and Electronics Engineering, BITS Pilani Goa, 2015
 * M.Sc. in Physics, BITS Pilani Goa, 2015
 
-
 Work experience
 ======
 * 2022 - Present: Deep Learning Researcher
@@ -24,28 +23,16 @@ Work experience
   * Applied AI, Advanced Technology Group
 * Summer 2021: Research Intern
   * Google Research
-  * Topic: Machine learning
-  * Supervisor: Dr. Michal Lukasik
-  
+  * Topic: Knowledge augmented language models
 * Summer 2020: Data Science Research Intern
   * Adobe Research
   * Topic: Image compression
-  * Supervisor: Dr. Vishy Swaminathan
-
 * Summer 2018: Research Intern
   * Mitsubishi Electric Research Laboratories
   * Topic: Multi-modal active sensing
-  * Supervisor: Dr. Petros Boufounos and Dr. Hassan Mansour
-  
 * Summer 2015 - Spring 2016: Research Assistant
   * Indian Institute of Science
   * Topic: Compressed sensing and application to ultrasound imaging
-  * Supervisor: Professor Chandrasekhar Seelamantula
-  
-Skills
-======
-* Python
-* MATLAB
 
 Publications
 ======
@@ -53,7 +40,8 @@ Publications
   
 Research
 ======
-* Multimodal video highlight detection
+* Active speaker detection
+* Multimodal video understanding, question answering and retrieval
 * Adversarial training of deep networks
 * Inverse imaging with generative priors
 * [Inverse imaging with untrained neural network priors](https://gaurijagatap.github.io/portfolio/portfolio-1/)
@@ -61,6 +49,9 @@ Research
 * [Compressive phase retrieval](https://gaurijagatap.github.io/portfolio/portfolio-3/)
 * [Super-resolution Fourier ptychography](https://gaurijagatap.github.io/portfolio/portfolio-4/)
 
+Media Coverage
+======
+https://www.bits-pilani.ac.in/unveiling-the-depths-transforming-video-with-deep-learning-expertise-with-gauri-jagatap/
 
 [Detailed Resume](http://gaurijagatap.github.io/assets/resumefull.pdf)
 
