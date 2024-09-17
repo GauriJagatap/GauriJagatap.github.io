@@ -59,7 +59,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 <font size="+2"> Under review: </font>
 
-Coming soon.
+1. M. Chasmai, **G. Jagatap**, G. KV, G. Van Horn, S. Maji, A. Fanelli, "Relevance Sampling for Long-Form Video Question Answering Using Multimodal Foundation Models", under review, 2024.
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
 
