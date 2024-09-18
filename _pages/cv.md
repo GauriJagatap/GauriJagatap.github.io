@@ -20,7 +20,7 @@ Work experience
 ======
 * 2022 - Present: Deep Learning Researcher
   * Dolby Laboratories
-  * Applied AI, Advanced Technology Group
+  * Multimodal Experiences Lab, Advanced Technology Group
 * Summer 2021: Research Intern
   * Google Research
   * Topic: Knowledge augmented language models
