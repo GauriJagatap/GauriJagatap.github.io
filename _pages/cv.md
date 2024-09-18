@@ -22,10 +22,10 @@ Work experience
   * Dolby Laboratories
   * Multimodal Experiences Lab, Advanced Technology Group
 * Summer 2021: Research Intern
-  * Google Research
+  * Google
   * Topic: Knowledge augmented language models
 * Summer 2020: Data Science Research Intern
-  * Adobe Research
+  * Adobe
   * Topic: Image compression
 * Summer 2018: Research Intern
   * Mitsubishi Electric Research Laboratories
