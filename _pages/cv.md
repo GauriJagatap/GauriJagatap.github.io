@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2022 - Present: Deep Learning Researcher
+* 2022 - Present: Senior Researcher
   * Dolby Laboratories
   * Multimodal Experiences Lab, Advanced Technology Group
 * Summer 2021: Research Intern
