@@ -13,8 +13,11 @@ Coming soon.
 {% endcomment %}
 
 <font size="+2"> Conference publications: </font>
+1. M. Chasmai, **G. Jagatap**, G. KV, G. Van Horn, S. Maji, A. Fanelli, "Moment Sampling in Video LLMs for Long-Form VQA", CVPR Workshop on Video LLMs, 2025. [<a target="_blank" href='https://www.arxiv.org/abs/2507.00033'> Preprint </a>]
 
-2. T. Nguyen, **G. Jagatap** and C. Hegde, “Inverse imaging with generative priors via Langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
+2. A. Joshi, S. Akula, **G. Jagatap**, C. Hegde, "A Few Adversarial Tokens Can Break Vision Transformers", CVPR Workshop on Adversarial Machine Learning on Computer Vision, 2023.
+
+3. T. Nguyen, **G. Jagatap** and C. Hegde, “Inverse imaging with generative priors via Langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
 
 4. **G. Jagatap**, A. Joshi, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, ICML Workshop on Adversarial Machine Learning, 2021. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Preprint </a>]
 
@@ -39,8 +42,6 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 6. **G. Jagatap**, C. Hegde, "Fast, sample efficient algorithms for structured phase retrieval", Advances in Neural Information Processing Systems (NIPS), 2017. (Acceptance rate: 20.93%) [ <a target="_blank" href='http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval'>Paper</a> / [Poster]({{ site.url }}/assets/poster.pdf) / <a target="_blank" href='https://github.com/GauriJagatap/model-copram'>Code</a> ]
 
-
-
 <font size="+2"> Journal articles: </font>
 2. T. Nguyen, **G. Jagatap** and C. Hegde, “Provable compressed sensing with generative priors via langevin dynamics”, IEEE Transactions on Information Theory, 2022.
 
@@ -59,7 +60,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 <font size="+2"> Under review: </font>
 
-1. M. Chasmai, **G. Jagatap**, G. KV, G. Van Horn, S. Maji, A. Fanelli, "Relevance Sampling for Long-Form Video Question Answering Using Multimodal Foundation Models", under review, 2024.
+1. A. Agrawal, G. KV, G. Jagatap, R. Aralikatti, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings".
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
 
