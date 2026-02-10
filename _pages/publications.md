@@ -60,7 +60,9 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 <font size="+2"> Under review: </font>
 
-1. A. Agrawal, G. KV, G. Jagatap, R. Aralikatti, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings".
+1. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", 2025.
+
+2. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", 2026.
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
 
