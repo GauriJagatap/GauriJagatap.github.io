@@ -13,21 +13,25 @@ Coming soon.
 {% endcomment %}
 
 <font size="+2"> Conference publications: </font>
-1. M. Chasmai, **G. Jagatap**, G. KV, G. Van Horn, S. Maji, A. Fanelli, "Moment Sampling in Video LLMs for Long-Form VQA", CVPR Workshop on Video LLMs, 2025. [<a target="_blank" href='https://www.arxiv.org/abs/2507.00033'> Preprint </a>]
+1. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", ACL 2026 (also in ICLR Workshop on Multimodal Intelligence, 2026).
+   
+2. S. Zhang, T. Nguyen, S. Shankar, **G. Jagatap**, D. Chandran, A. Fanelli, M. Fiterau, "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction", CVPR Workshop on Emerging Directions in Data for Multimodal Foundation Models, 2026.
 
-2. A. Joshi, S. Akula, **G. Jagatap**, C. Hegde, "A Few Adversarial Tokens Can Break Vision Transformers", CVPR Workshop on Adversarial Machine Learning on Computer Vision, 2023.
+3. M. Chasmai, **G. Jagatap**, G. KV, G. Van Horn, S. Maji, A. Fanelli, "Moment Sampling in Video LLMs for Long-Form VQA", CVPR Workshop on Video LLMs, 2025. [<a target="_blank" href='https://www.arxiv.org/abs/2507.00033'> Preprint </a>]
 
-3. T. Nguyen, **G. Jagatap** and C. Hegde, “Inverse imaging with generative priors via Langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
+4. A. Joshi, S. Akula, **G. Jagatap**, C. Hegde, "A Few Adversarial Tokens Can Break Vision Transformers", CVPR Workshop on Adversarial Machine Learning on Computer Vision, 2023.
 
-4. **G. Jagatap**, A. Joshi, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, ICML Workshop on Adversarial Machine Learning, 2021. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Preprint </a>]
+5. T. Nguyen, **G. Jagatap** and C. Hegde, “Inverse imaging with generative priors via Langevin dynamics”, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
 
-2. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020. [[Preprint]({{ site.url }}/assets/hdrimage.pdf) / [Paper](https://ieeexplore.ieee.org/abstract/document/9054218 ) / [Talk]({{ site.url }}/assets/hdr_dip_icassp_4320.pdf)]
+6. **G. Jagatap**, A. Joshi, A. Chowdhury, S. Garg and C. Hegde, “Adversarially robust learning via entropic regularization”, ICML Workshop on Adversarial Machine Learning, 2021. [<a target="_blank" href='https://arxiv.org/abs/2008.12338'> Preprint </a>]
 
-2. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", Advances in Neural Information Processing Systems (NeurIPS), 2019. (Acceptance rate: 21.18%) [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> / [Slides]({{ site.url }}/assets/NeurIPS19slides.pdf) / [Poster]({{ site.url }}/assets/NeurIPS19poster.pdf)]
+7. **G. Jagatap**, C. Hegde, "High dynamic range imaging using deep image priors", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020. [[Preprint]({{ site.url }}/assets/hdrimage.pdf) / [Paper](https://ieeexplore.ieee.org/abstract/document/9054218 ) / [Talk]({{ site.url }}/assets/hdr_dip_icassp_4320.pdf)]
 
-2. **G. Jagatap**, C. Hegde, "Phase Retrieval using Untrained Neural Network Priors", NeurIPS Workshop on Solving Inverse Problems with Deep Neural Networks, 2019. [ <a target="_blank" href= 'https://openreview.net/forum?id=r1l9n725IH'>Paper</a> ]
+8. **G. Jagatap**, C. Hegde, "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors", Advances in Neural Information Processing Systems (NeurIPS), 2019. (Acceptance rate: 21.18%) [ <a target="_blank" href= 'https://arxiv.org/abs/1906.08763'>Preprint</a> / <a target="_blank" href='https://github.com/GauriJagatap/invimaging-deeppriors'>Code</a> / [Slides]({{ site.url }}/assets/NeurIPS19slides.pdf) / [Poster]({{ site.url }}/assets/NeurIPS19poster.pdf)]
 
-1. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", IEEE International Symposium on Information Theory (ISIT), 2019. [[Preprint]({{ site.url }}/assets/ISIT19.pdf) / [Talk]({{ site.url }}/assets/ISIT19talk.pdf)]
+9. **G. Jagatap**, C. Hegde, "Phase Retrieval using Untrained Neural Network Priors", NeurIPS Workshop on Solving Inverse Problems with Deep Neural Networks, 2019. [ <a target="_blank" href= 'https://openreview.net/forum?id=r1l9n725IH'>Paper</a> ]
+
+10. **G. Jagatap**, C. Hegde, "Linearly Convergent Algorithms for Learning Shallow Residual Networks. ", IEEE International Symposium on Information Theory (ISIT), 2019. [[Preprint]({{ site.url }}/assets/ISIT19.pdf) / [Talk]({{ site.url }}/assets/ISIT19talk.pdf)]
 
 
 2. **G. Jagatap**, Z. Chen, C. Hegde, N. Vaswani, "Model corrected low rank ptychography",  IEEE International Conference on Image Processing (ICIP), 2018. [[Preprint]({{ site.url }}/assets/ICIP18.pdf) / <a target="_blank" href='https://ieeexplore.ieee.org/document/8451403'>Paper</a> / [Poster]({{ site.url }}/assets/ICIP18poster.pdf)]
@@ -60,7 +64,7 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 
 <font size="+2"> Under review: </font>
 
-1. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", 2025.
+1. A. Majee, **G. Jagatap**, D. Chandran, R. Iyer, A. Fanelli, "SCOUT: Segment Curation for Optimal Understanding of Long-Form Videos", 2026.
 
 2. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", 2026.
 
