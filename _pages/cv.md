@@ -53,5 +53,5 @@ Media Coverage
 ======
 https://www.bits-pilani.ac.in/unveiling-the-depths-transforming-video-with-deep-learning-expertise-with-gauri-jagatap/
 
-[Detailed Resume](http://gaurijagatap.github.io/assets/resumefull.pdf)
+[Detailed Resume](http://gaurijagatap.github.io/assets/resumeapril26.pdf)
 
