@@ -14,9 +14,9 @@ Coming soon.
 
 <font size="+2"> Conference publications: </font>
 
-2. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", ECCV 2026.
+2. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", European Conference on Computer Vision (ECCV), 2026.
 
-2. S. Zhang, T. Nguyen, S. Shankar, **G. Jagatap**, D. Chandran, A. Fanelli, M. Fiterau, "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction", ECCV 2026 (also in CVPR Workshop on Emerging Directions in Data for Multimodal Foundation Models, 2026).
+2. S. Zhang, T. Nguyen, S. Shankar, **G. Jagatap**, D. Chandran, A. Fanelli, M. Fiterau, "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction", European Conference on Computer Vision (ECCV), 2026 (also in CVPR Workshop on Emerging Directions in Data for Multimodal Foundation Models, 2026).
    
 1. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", ACL 2026 (also in ICLR Workshop on Multimodal Intelligence, 2026). [<a target=" blank" href='https://arxiv.org/pdf/2511.05017'> Preprint </a>]
 
