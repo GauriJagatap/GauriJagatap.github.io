@@ -13,9 +13,12 @@ Coming soon.
 {% endcomment %}
 
 <font size="+2"> Conference publications: </font>
-1. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", ACL 2026 (also in ICLR Workshop on Multimodal Intelligence, 2026).
+
+2. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", ECCV 2026.
+
+2. S. Zhang, T. Nguyen, S. Shankar, **G. Jagatap**, D. Chandran, A. Fanelli, M. Fiterau, "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction", ECCV 2026 (also in CVPR Workshop on Emerging Directions in Data for Multimodal Foundation Models, 2026).
    
-2. S. Zhang, T. Nguyen, S. Shankar, **G. Jagatap**, D. Chandran, A. Fanelli, M. Fiterau, "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction", CVPR Workshop on Emerging Directions in Data for Multimodal Foundation Models, 2026.
+1. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", ACL 2026 (also in ICLR Workshop on Multimodal Intelligence, 2026).
 
 3. M. Chasmai, **G. Jagatap**, G. KV, G. Van Horn, S. Maji, A. Fanelli, "Moment Sampling in Video LLMs for Long-Form VQA", CVPR Workshop on Video LLMs, 2025. [<a target="_blank" href='https://www.arxiv.org/abs/2507.00033'> Preprint </a>]
 
@@ -65,8 +68,6 @@ and structured sparsity", IEEE International Conference on Acoustics, Speech, an
 <font size="+2"> Under review: </font>
 
 1. A. Majee, **G. Jagatap**, D. Chandran, R. Iyer, A. Fanelli, "SCOUT: Segment Curation for Optimal Understanding of Long-Form Videos", 2026.
-
-2. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", 2026.
 
 You can also find my profile on <a target="_blank" href='https://scholar.google.com/citations?user=B7-TNaIAAAAJ&hl=en'>Google Scholar</a> and <a target="_blank" href='https://publons.com/researcher/3013655/gauri-jagatap/'>Publons</a>.
 
