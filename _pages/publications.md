@@ -14,11 +14,11 @@ Coming soon.
 
 <font size="+2"> Conference publications: </font>
 
-1. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", European Conference on Computer Vision (ECCV), 2026.
+1. S. Reza, **G. Jagatap**, M. Moghaddam, O. Camps, A. Fanelli, "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization", European Conference on Computer Vision (ECCV), 2026. [<a target=" blank" href='https://arxiv.org/pdf/2607.00289'>Preprint</a> / <a target=" blank" href='https://sakibreza.github.io/OnPoint/'>Project Page</a>]
 
-2. S. Zhang, T. Nguyen, S. Shankar, **G. Jagatap**, D. Chandran, A. Fanelli, M. Fiterau, "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction", European Conference on Computer Vision (ECCV), 2026 (also in CVPR Workshop on Emerging Directions in Data for Multimodal Foundation Models, 2026).
+2. S. Zhang, T. Nguyen, S. Shankar, **G. Jagatap**, D. Chandran, A. Fanelli, M. Fiterau, "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction", European Conference on Computer Vision (ECCV), 2026 (also in CVPR Workshop on Emerging Directions in Data for Multimodal Foundation Models, 2026). [<a target=" blank" href='https://arxiv.org/pdf/2607.06875'>Preprint</a> / <a target=" blank" href='https://information-fusion-lab-umass.github.io/video2reaction-bench.github.io/'>Project Page</a>]
    
-3. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", ACL 2026 (also in ICLR Workshop on Multimodal Intelligence, 2026). [<a target=" blank" href='https://arxiv.org/pdf/2511.05017'>Preprint</a>]
+3. A. Agrawal, G. KV, R. Aralikatti, **G. Jagatap**, J. Yuan, V. Kamarshi, A. Fanelli, F. Huang, "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings", ACL 2026 (also in ICLR Workshop on Multimodal Intelligence, 2026). [<a target=" blank" href='https://aclanthology.org/2026.findings-acl.2086.pdf'>Paper</a> / <a target=" blank" href='https://arxiv.org/pdf/2511.05017'>Preprint</a>]
 
 4. M. Chasmai, **G. Jagatap**, G. KV, G. Van Horn, S. Maji, A. Fanelli, "Moment Sampling in Video LLMs for Long-Form VQA", CVPR Workshop on Video LLMs, 2025. [<a target="_blank" href='https://www.arxiv.org/abs/2507.00033'>Paper</a>]
 
