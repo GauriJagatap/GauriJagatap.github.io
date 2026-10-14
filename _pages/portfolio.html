@@ -15,10 +15,10 @@ author_profile: true
     {% if post.teaser %}
       <div class="research-card__media"><img src="{{ base_path }}/images/{{ post.teaser }}" alt="" loading="lazy"></div>
     {% else %}
-      <div class="research-card__media research-card__media--gradient"><i class="fas {{ post.icon | default: 'fa-flask' }}" aria-hidden="true"></i></div>
+      <div class="research-card__media research-card__media--gradient{% if post.gradient %} research-card__media--{{ post.gradient }}{% endif %}"><i class="fas {{ post.icon | default: 'fa-flask' }}" aria-hidden="true"></i></div>
     {% endif %}
     <div class="research-card__body">
-      {% if post.tag %}<span class="research-card__tag">{{ post.tag }}</span>{% endif %}
+      {% if post.label %}<span class="research-card__tag">{{ post.label }}</span>{% endif %}
       <h2 class="research-card__title">{{ post.title }}</h2>
       <p class="research-card__summary">{{ post.excerpt | strip_html }}</p>
     </div>

@@ -2,7 +2,7 @@
 title: "Inverse Imaging with Deep Untrained Neural Network Priors"
 excerpt: "Untrained deep networks as image priors for compressed sensing, phase retrieval and HDR imaging, with convergence guarantees."
 teaser: NetPGD.png
-tag: "PhD · Computational imaging"
+label: "PhD · Computational imaging"
 collection: portfolio
 ---
 

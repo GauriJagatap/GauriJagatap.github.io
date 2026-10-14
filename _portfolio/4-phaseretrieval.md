@@ -2,7 +2,7 @@
 title: "Compressive phase retrieval under image priors"
 excerpt: "CoPRAM and Block CoPRAM: fast, sample-efficient phase retrieval using sparsity and structured sparsity."
 teaser: pr.png
-tag: "PhD · Signal processing"
+label: "PhD · Signal processing"
 collection: portfolio
 ---
 

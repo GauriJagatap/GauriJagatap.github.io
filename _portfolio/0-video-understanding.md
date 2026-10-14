@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Understanding of Long-Form Video"
 excerpt: "Models that combine video, audio and text to retrieve moments, answer questions, localize actions and curate highlights in long videos."
-tag: "Dolby · Current work"
+label: "Dolby · Current work"
 icon: "fa-film"
 collection: portfolio
 ---
