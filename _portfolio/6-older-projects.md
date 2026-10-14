@@ -1,14 +1,18 @@
 ---
-permalink: /projects/
-title: "Projects"
-author_profile: true
-redirect_from: 
+title: "Older Projects"
+excerpt: "Course and side projects from graduate school: CGI image forensics, topic modeling with NMF and sparse PCA, and compressive video segmentation."
+label: "Grad school · Explorations"
+teaser: older-projects.png
+collection: portfolio
+redirect_from:
+  - /projects/
   - /markdown/
   - /md
   - /markdown.html
 ---
 
-<p class="page__lead">Course and side projects from graduate school, on image forensics, topic modeling and compressive video.</p>
+Course and side projects from graduate school, on image forensics, topic modeling and compressive video.
+
 
 ## Classification between natural and CGI images via Residual CNNs using Sensor Pattern Noise
 
