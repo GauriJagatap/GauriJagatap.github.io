@@ -479,6 +479,35 @@ a {
     }
   }
 
+  // Original paper figures, framed to match the illustrated thumbnails:
+  // a dark gradient backdrop with the figure on a white panel.
+  &__media--figure {
+    position: relative;
+    padding: 1.1rem 1.4rem;
+    background:
+      radial-gradient(circle at 92% 8%, rgba(138, 92, 246, 0.22) 0, rgba(138, 92, 246, 0.22) 28%, transparent 28.5%),
+      radial-gradient(circle at 6% 96%, rgba(67, 83, 201, 0.3) 0, rgba(67, 83, 201, 0.3) 24%, transparent 24.5%),
+      linear-gradient(135deg, #1b1f4b 0%, #2d1b4e 100%);
+
+    img {
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 100%;
+      padding: 0.45rem;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+    }
+  }
+
+  .research-grid > &:nth-child(even) &__media--figure {
+    background:
+      radial-gradient(circle at 94% 92%, rgba(28, 159, 184, 0.2) 0, rgba(28, 159, 184, 0.2) 30%, transparent 30.5%),
+      radial-gradient(circle at 6% 6%, rgba(67, 83, 201, 0.25) 0, rgba(67, 83, 201, 0.25) 24%, transparent 24.5%),
+      linear-gradient(135deg, #0d2b33 0%, #16224a 100%);
+  }
+
   &__media--gradient {
     background: linear-gradient(135deg, var(--accent) 0%, #8a5cf6 55%, #ec6aa0 100%);
     color: #fff;

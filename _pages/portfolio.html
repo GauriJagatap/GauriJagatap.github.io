@@ -13,7 +13,8 @@ author_profile: true
 {% for post in site.portfolio %}
   <a class="research-card" href="{{ base_path }}{{ post.url }}">
     {% if post.teaser %}
-      <div class="research-card__media"><img src="{{ base_path }}/images/{{ post.teaser }}" alt="" loading="lazy"></div>
+      {% assign is_svg = post.teaser | split: "." | last %}
+      <div class="research-card__media{% if is_svg != "svg" %} research-card__media--figure{% endif %}"><img src="{{ base_path }}/images/{{ post.teaser }}" alt="" loading="lazy"></div>
     {% else %}
       <div class="research-card__media research-card__media--gradient{% if post.gradient %} research-card__media--{{ post.gradient }}{% endif %}"><i class="fas {{ post.icon | default: 'fa-flask' }}" aria-hidden="true"></i></div>
     {% endif %}
