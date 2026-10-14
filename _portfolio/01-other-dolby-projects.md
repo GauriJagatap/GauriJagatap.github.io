@@ -2,8 +2,7 @@
 title: "Other Dolby Projects"
 excerpt: "HDR for Dolby Vision 2, and real-time active speaker detection for mobile devices and smart glasses."
 label: "Dolby · Product research"
-icon: "fa-layer-group"
-gradient: alt
+teaser: dolby-other-projects.svg
 collection: portfolio
 ---
 
