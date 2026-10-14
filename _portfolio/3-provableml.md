@@ -1,6 +1,8 @@
 ---
 title: "Provable algorithms for machine learning"
-excerpt: "<br/><img src='/images/resnet.png'>"
+excerpt: "Gradient descent and alternating minimization for shallow ResNets, with linear convergence guarantees."
+teaser: resnet.png
+tag: "PhD · Learning theory"
 collection: portfolio
 ---
 

@@ -1,0 +1,288 @@
+# Publications, newest first. Rendered by _includes/publication.html on the
+# Publications page and (for entries with `selected: true`) on the homepage.
+#
+# type: conference | journal | workshop | review
+# links: list of {name, url}; relative urls (starting with /) point into this site.
+
+- title: "Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights"
+  authors: "T. Lin, D. Chandran, G. Jagatap, C. Chen, A. Fanelli, D. Gunawan, J. Kimball"
+  venue: "IEEE VIS Workshop on GenAI, Agents, and the Future of VIS"
+  venue_short: "VIS-W 2026"
+  year: 2026
+  type: workshop
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2609.20768
+
+- title: "OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization"
+  authors: "S. Reza, G. Jagatap, M. Moghaddam, O. Camps, A. Fanelli"
+  venue: "European Conference on Computer Vision"
+  venue_short: "ECCV 2026"
+  year: 2026
+  type: conference
+  selected: true
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2607.00289
+    - name: Project
+      url: https://sakibreza.github.io/OnPoint/
+
+- title: "Video2Reaction: Training Foundation Video Models to Predict Audience Reaction"
+  authors: "T. Nguyen, S. Zhang, S. Shankar, G. Jagatap, D. Chandran, A. Fanelli, M. Fiterau"
+  venue: "European Conference on Computer Vision"
+  venue_short: "ECCV 2026"
+  year: 2026
+  type: conference
+  selected: true
+  note: "Also at the CVPR 2026 Workshop on Emerging Directions in Data for Multimodal Foundation Models"
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2607.06875
+    - name: Project
+      url: https://information-fusion-lab-umass.github.io/video2reaction-bench.github.io/
+
+- title: "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings"
+  authors: "A. Agrawal, G. KV, R. Aralikatti, G. Jagatap, J. Yuan, S. Baskar, V. Kamarshi, A. Fanelli, F. Huang"
+  venue: "Findings of the Association for Computational Linguistics"
+  venue_short: "ACL 2026"
+  year: 2026
+  type: conference
+  selected: true
+  note: "Also at the ICLR 2026 Workshop on Multimodal Intelligence"
+  links:
+    - name: Paper
+      url: https://aclanthology.org/2026.findings-acl.2086.pdf
+    - name: arXiv
+      url: https://arxiv.org/abs/2511.05017
+
+- title: "SCOUT: Segment Curation for Optimal Understanding of Long-Form Videos"
+  authors: "A. Majee, G. Jagatap, D. Chandran, R. Iyer, A. Fanelli"
+  venue: "Under review"
+  venue_short: "Under review"
+  year: 2026
+  type: review
+
+- title: "Moment Sampling in Video LLMs for Long-Form VQA"
+  authors: "M. Chasmai, G. Jagatap, G. KV, G. Van Horn, S. Maji, A. Fanelli"
+  venue: "CVPR Workshop on Video Large Language Models"
+  venue_short: "CVPR-W 2025"
+  year: 2025
+  type: workshop
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2507.00033
+
+- title: "A Few Adversarial Tokens Can Break Vision Transformers"
+  authors: "A. Joshi, S. Akula, G. Jagatap, C. Hegde"
+  venue: "CVPR Workshop on Adversarial Machine Learning on Computer Vision"
+  venue_short: "CVPR-W 2023"
+  year: 2023
+  type: workshop
+  links:
+    - name: Paper
+      url: https://robustart.github.io/long_paper/31.pdf
+
+- title: "Can Deepfakes be created on a whim?"
+  authors: "P. Mehta, G. Jagatap, K. Gallagher, B. Timmerman, P. Deb, S. Garg, R. Greenstadt, B. Dolan-Gavitt"
+  venue: "International Workshop on Cyber Social Threats (CySoc), ACM Web Conference"
+  venue_short: "WWW-W 2023"
+  year: 2023
+  type: workshop
+  links:
+    - name: Paper
+      url: https://dl.acm.org/doi/pdf/10.1145/3543873.3587581
+
+- title: "Adversarial Token Attacks on Vision Transformers"
+  authors: "A. Joshi, G. Jagatap, C. Hegde"
+  venue: "CVPR Workshop on Transformers for Vision"
+  venue_short: "CVPR-W 2022"
+  year: 2022
+  type: workshop
+
+- title: "Provable Compressed Sensing with Generative Priors via Langevin Dynamics"
+  authors: "T. Nguyen, G. Jagatap, C. Hegde"
+  venue: "IEEE Transactions on Information Theory"
+  venue_short: "IEEE T-IT"
+  year: 2022
+  type: journal
+
+- title: "Inverse Imaging with Generative Priors via Langevin Dynamics"
+  authors: "T. Nguyen, G. Jagatap, C. Hegde"
+  venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+  venue_short: "ICASSP 2022"
+  year: 2022
+  type: conference
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/abstract/document/9747128
+
+- title: "Adversarially Robust Learning via Entropic Regularization"
+  authors: "G. Jagatap, A. Joshi, A. Chowdhury, S. Garg, C. Hegde"
+  venue: "Frontiers in Artificial Intelligence"
+  venue_short: "Frontiers in AI"
+  year: 2021
+  type: journal
+  note: "Also at the ICML 2021 Workshop on Adversarial Machine Learning"
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/2008.12338
+    - name: Code
+      url: https://github.com/GauriJagatap/StochAT
+
+- title: "High Dynamic Range Imaging using Deep Image Priors"
+  authors: "G. Jagatap, C. Hegde"
+  venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+  venue_short: "ICASSP 2020"
+  year: 2020
+  type: conference
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/abstract/document/9054218
+    - name: Preprint
+      url: /assets/hdrimage.pdf
+    - name: Talk
+      url: /assets/hdr_dip_icassp_4320.pdf
+
+- title: "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors"
+  authors: "G. Jagatap, C. Hegde"
+  venue: "Advances in Neural Information Processing Systems"
+  venue_short: "NeurIPS 2019"
+  year: 2019
+  type: conference
+  selected: true
+  note: "Acceptance rate: 21.18%"
+  links:
+    - name: arXiv
+      url: https://arxiv.org/abs/1906.08763
+    - name: Code
+      url: https://github.com/GauriJagatap/invimaging-deeppriors
+    - name: Slides
+      url: /assets/NeurIPS19slides.pdf
+    - name: Poster
+      url: /assets/NeurIPS19poster.pdf
+
+- title: "Phase Retrieval using Untrained Neural Network Priors"
+  authors: "G. Jagatap, C. Hegde"
+  venue: "NeurIPS Workshop on Solving Inverse Problems with Deep Neural Networks"
+  venue_short: "NeurIPS-W 2019"
+  year: 2019
+  type: workshop
+  links:
+    - name: Paper
+      url: https://openreview.net/forum?id=r1l9n725IH
+
+- title: "Linearly Convergent Algorithms for Learning Shallow Residual Networks"
+  authors: "G. Jagatap, C. Hegde"
+  venue: "IEEE International Symposium on Information Theory"
+  venue_short: "ISIT 2019"
+  year: 2019
+  type: conference
+  links:
+    - name: Preprint
+      url: /assets/ISIT19.pdf
+    - name: Talk
+      url: /assets/ISIT19talk.pdf
+
+- title: "Sample Efficient Fourier Ptychography for Structured Data"
+  authors: "G. Jagatap, Z. Chen, S. Nayer, C. Hegde, N. Vaswani"
+  venue: "IEEE Transactions on Computational Imaging"
+  venue_short: "IEEE TCI"
+  year: 2019
+  type: journal
+  links:
+    - name: Preprint
+      url: /assets/TCI19.pdf
+    - name: Code
+      url: https://github.com/GauriJagatap/copram-for-ptycho
+
+- title: "Sample Efficient Algorithms for Recovering Structured Signals from Magnitude-Only Measurements"
+  authors: "G. Jagatap, C. Hegde"
+  venue: "IEEE Transactions on Information Theory"
+  venue_short: "IEEE T-IT"
+  year: 2019
+  type: journal
+  selected: true
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/abstract/document/8660586
+    - name: arXiv
+      url: https://arxiv.org/abs/1705.06412
+    - name: Code
+      url: https://github.com/GauriJagatap/model-copram
+
+- title: "Model Corrected Low Rank Ptychography"
+  authors: "G. Jagatap, Z. Chen, C. Hegde, N. Vaswani"
+  venue: "IEEE International Conference on Image Processing"
+  venue_short: "ICIP 2018"
+  year: 2018
+  type: conference
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/document/8451403
+    - name: Preprint
+      url: /assets/ICIP18.pdf
+    - name: Poster
+      url: /assets/ICIP18poster.pdf
+
+- title: "Towards Sample-Optimal Methods for Solving Random Quadratic Equations with Structure"
+  authors: "G. Jagatap, C. Hegde"
+  venue: "IEEE International Symposium on Information Theory"
+  venue_short: "ISIT 2018"
+  year: 2018
+  type: conference
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/document/8437770
+    - name: Preprint
+      url: /assets/ISIT18.pdf
+    - name: Talk
+      url: /assets/ISIT18talk.pdf
+    - name: Code
+      url: https://github.com/GauriJagatap/model-copram/tree/trees
+
+- title: "Sub-diffraction Imaging using Fourier Ptychography and Structured Sparsity"
+  authors: "G. Jagatap, Z. Chen, C. Hegde, N. Vaswani"
+  venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+  venue_short: "ICASSP 2018"
+  year: 2018
+  type: conference
+  note: "Oral presentation"
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/document/8461302
+    - name: Preprint
+      url: /assets/SFP.pdf
+    - name: Talk
+      url: /assets/ICASSP18talk.pdf
+    - name: Code
+      url: https://github.com/GauriJagatap/copram-for-ptycho
+
+- title: "Low Rank Fourier Ptychography"
+  authors: "Z. Chen, G. Jagatap, S. Nayer, C. Hegde, N. Vaswani"
+  venue: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+  venue_short: "ICASSP 2018"
+  year: 2018
+  type: conference
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/document/8462480
+    - name: Preprint
+      url: /assets/LRFP.pdf
+    - name: Poster
+      url: /assets/ICASSP18poster.pdf
+
+- title: "Fast, Sample Efficient Algorithms for Structured Phase Retrieval"
+  authors: "G. Jagatap, C. Hegde"
+  venue: "Advances in Neural Information Processing Systems"
+  venue_short: "NeurIPS 2017"
+  year: 2017
+  type: conference
+  selected: true
+  note: "Acceptance rate: 20.93%"
+  links:
+    - name: Paper
+      url: http://papers.nips.cc/paper/7077-fast-sample-efficient-algorithms-for-structured-phase-retrieval
+    - name: Poster
+      url: /assets/poster.pdf
+    - name: Code
+      url: https://github.com/GauriJagatap/model-copram
