@@ -471,6 +471,12 @@ a {
       object-fit: contain;
       padding: 0.75rem;
     }
+
+    // full-bleed illustrations
+    img[src$=".svg"] {
+      object-fit: cover;
+      padding: 0;
+    }
   }
 
   &__media--gradient {
