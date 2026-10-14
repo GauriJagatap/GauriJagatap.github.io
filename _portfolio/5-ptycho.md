@@ -2,7 +2,7 @@
 title: "Fourier ptychography for super-resolution under image priors"
 excerpt: "Sub-diffraction imaging via Fourier ptychography using sparsity and low-rank priors."
 teaser: copram.png
-label: "PhD · Super-resolution"
+label: "PhD · Computational imaging"
 collection: portfolio
 ---
 
