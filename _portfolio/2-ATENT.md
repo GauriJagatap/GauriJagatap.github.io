@@ -1,6 +1,8 @@
 ---
 title: "Adversarially Robust Learning via Entropic Regularization"
-excerpt: "<br/><img src='/images/adv.png'>"
+excerpt: "ATENT: an entropy-regularized loss for training neural networks that are robust to adversarial perturbations."
+teaser: adv.png
+label: "PhD · Robust ML"
 collection: portfolio
 ---
 

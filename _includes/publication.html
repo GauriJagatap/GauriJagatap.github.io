@@ -1,0 +1,22 @@
+{% include base_path %}
+{% assign pub = include.pub %}
+<article class="pub" data-type="{{ pub.type }}">
+  <div class="pub__venue">
+    <span class="pub__badge pub__badge--{{ pub.type }}">{{ pub.venue_short }}</span>
+  </div>
+  <div class="pub__body">
+    <h3 class="pub__title">{{ pub.title }}</h3>
+    <p class="pub__authors">{{ pub.authors | replace: "G. Jagatap", "<strong>G. Jagatap</strong>" }}</p>
+    {% unless pub.type == "review" %}
+    <p class="pub__meta"><em>{{ pub.venue }}</em>, {{ pub.year }}{% if pub.note %}<span class="pub__note">{{ pub.note }}</span>{% endif %}</p>
+    {% endunless %}
+    {% if pub.links %}
+    <div class="pub__links">
+      {% for link in pub.links %}
+        {% if link.url contains "://" %}{% assign href = link.url %}{% else %}{% assign href = link.url | prepend: base_path %}{% endif %}
+        <a class="pill" href="{{ href }}" target="_blank" rel="noopener">{{ link.name }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</article>

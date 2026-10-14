@@ -1,12 +1,14 @@
 ---
 permalink: /projects/
-title: "Additional Projects"
+title: "Projects"
 author_profile: true
 redirect_from: 
   - /markdown/
   - /md
   - /markdown.html
 ---
+
+<p class="page__lead">Course and side projects from graduate school, on image forensics, topic modeling and compressive video.</p>
 
 ## Classification between natural and CGI images via Residual CNNs using Sensor Pattern Noise
 

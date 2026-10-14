@@ -7,8 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+<p class="page__lead">My current work at Dolby focuses on multimodal video understanding. My PhD research covered computational imaging, robust machine learning and learning theory.</p>
 
+<div class="research-grid">
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <a class="research-card" href="{{ base_path }}{{ post.url }}">
+    {% if post.teaser %}
+      <div class="research-card__media"><img src="{{ base_path }}/images/{{ post.teaser }}" alt="" loading="lazy"></div>
+    {% else %}
+      <div class="research-card__media research-card__media--gradient{% if post.gradient %} research-card__media--{{ post.gradient }}{% endif %}"><i class="fas {{ post.icon | default: 'fa-flask' }}" aria-hidden="true"></i></div>
+    {% endif %}
+    <div class="research-card__body">
+      {% if post.label %}<span class="research-card__tag">{{ post.label }}</span>{% endif %}
+      <h2 class="research-card__title">{{ post.title }}</h2>
+      <p class="research-card__summary">{{ post.excerpt | strip_html }}</p>
+    </div>
+  </a>
 {% endfor %}
-
+</div>

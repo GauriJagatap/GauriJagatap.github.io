@@ -1,0 +1,11 @@
+# Homepage news, newest first. `text` is markdown.
+- date: "Sep 2026"
+  text: "**Semantic Action Graph** (SportSAGE) accepted at the IEEE VIS 2026 Workshop on GenAI, Agents, and the Future of VIS. [arXiv](https://arxiv.org/abs/2609.20768)"
+- date: "Jul 2026"
+  text: "Two papers accepted at **ECCV 2026**: [OnPoint](https://sakibreza.github.io/OnPoint/) on point-supervised online action localization, and [Video2Reaction](https://information-fusion-lab-umass.github.io/video2reaction-bench.github.io/) on predicting audience reactions to video."
+- date: "Apr 2026"
+  text: "Our work on mitigating hallucinations in vision-language models was accepted to **Findings of ACL 2026**. [Paper](https://aclanthology.org/2026.findings-acl.2086.pdf)"
+- date: "Jun 2025"
+  text: "Presented **Moment Sampling in Video LLMs for Long-Form VQA** at the CVPR 2025 Workshop on Video LLMs."
+- date: "2022"
+  text: "Completed my PhD at NYU and joined **Dolby Laboratories** as a Senior Researcher."
